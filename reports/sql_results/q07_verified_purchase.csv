@@ -1,0 +1,3 @@
+purchase_type,n_reviews,avg_rating,pct_positive,pct_negative,avg_words
+not verified,102590,3.73,65.7,24.5,145.8
+verified,637147,4.1,75.8,17.1,42.4

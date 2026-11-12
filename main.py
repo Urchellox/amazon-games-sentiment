@@ -6,6 +6,7 @@ import database
 import eda
 import analysis
 import preprocessing
+import queries
 
 MENU = {
     "1": "Загрузить сырые данные -> Parquet",
@@ -14,6 +15,7 @@ MENU = {
     "4": "Показать статистику базы",
     "5": "Сравнить stemming и lemmatization",
     "6": "Частотный анализ и n-граммы",
+    "7": "SQL-запросы",
     "0": "Выход",
 }
 
@@ -114,6 +116,36 @@ def action_analysis():
     except FileNotFoundError:
         print("Не найден reviews.parquet. Сначала выберите пункт 1.")
 
+def action_sql():
+    """Пункт 7: SQL-запросы."""
+    if not database.DB_PATH.exists():
+        print("Базы данных нет. Сначала выберите пункт 3.")
+        return
+    try:
+        all_queries = queries.load_queries()
+    except FileNotFoundError as e:
+        print(e)
+        return
+    names = list(all_queries)
+    print("\nДоступные запросы:")
+    for i, name in enumerate(names, start=1):
+        print(f"  {i} - {all_queries[name][0]}")
+    while True:
+        choice = input("Номер запроса (a - все, 0 - назад): ").strip().lower()
+        if choice == "0":
+            return
+        elif choice == "a":
+            queries.run_all(all_queries)
+            return
+        try:
+            index = int(choice)
+            if not 1 <= index <= len(names):
+                raise ValueError
+        except ValueError:
+            print("Введите номер из списка, 'a' или 0.")
+            continue
+        queries.run_one(names[index - 1], all_queries)
+
 ACTIONS = {
     "1": action_load_data,
     "2": action_eda,
@@ -121,6 +153,7 @@ ACTIONS = {
     "4": action_show_stats,
     "5": action_preprocessing,
     "6": action_analysis,
+    "7": action_sql,
 }
 
 

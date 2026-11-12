@@ -1,0 +1,4 @@
+label,n_reviews,share_pct,avg_words,avg_helpful_votes
+positive,550681,74.4,51.2,0.99
+negative,134128,18.1,65.3,2.21
+neutral,54928,7.4,91.7,1.54

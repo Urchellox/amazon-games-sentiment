@@ -1,0 +1,5 @@
+popularity_quartile,n_products,min_reviews,max_reviews,mean_product_rating,mean_pct_negative
+1,18573,1,1,3.84,22.0
+2,18573,1,2,3.87,21.9
+3,18573,2,6,3.96,19.7
+4,18572,6,2892,4.03,18.2
