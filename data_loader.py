@@ -4,6 +4,7 @@ import json
 import random
 import time
 from pathlib import Path
+import statistics
 
 import pandas as pd
 
@@ -101,6 +102,14 @@ def save_parquet(df, path):
     path.parent.mkdir(parents=True, exist_ok=True)
     df.to_parquet(path, index=False)
 
+def _timeit(func, repeats=3):
+    """Возвращает медиану времени за несколько запусков и результат последнего."""
+    times, result = [], None
+    for _ in range(repeats):
+        t0 = time.perf_counter()
+        result = func()
+        times.append(time.perf_counter() - t0)
+    return statistics.median(times), result
 
 def compare_formats(df, sample_size=200_000):
     """Сравнивает CSV, JSONL и Parquet: размер, время записи/чтения, память."""
@@ -111,7 +120,7 @@ def compare_formats(df, sample_size=200_000):
         "csv": ("reviews.csv",
                 lambda d, p: d.to_csv(p, index=False), pd.read_csv),
         "jsonl": ("reviews.jsonl",
-                  lambda d, p: d.to_json(p, orient="records", lines=True),
+                  lambda d, p: d.to_json(p, orient="records", lines=True, date_format="iso"),
                   lambda p: pd.read_json(p, lines=True)),
         "parquet": ("reviews.parquet",
                     lambda d, p: d.to_parquet(p, index=False), pd.read_parquet),
@@ -119,18 +128,14 @@ def compare_formats(df, sample_size=200_000):
     results = {}
     for name, (filename, writer, reader) in formats.items():
         path = out_dir / filename
-        t0 = time.perf_counter()
-        writer(sample, path)
-        write_s = time.perf_counter() - t0
-        t0 = time.perf_counter()
-        loaded = reader(path)
-        read_s = time.perf_counter() - t0
+        write_s, _ = _timeit(lambda: writer(sample, path))
+        read_s, loaded = _timeit(lambda: reader(path))
         results[name] = {
             "rows": len(loaded),
             "size_mb": round(path.stat().st_size / 1e6, 1),
             "write_s": round(write_s, 2),
             "read_s": round(read_s, 2),
-            "memory_mb": round(loaded.memory_usage(deep=True).sum() / 1e6, 1),
+            "memory_mb": round(float(loaded.memory_usage(deep=True).sum()) / 1e6, 1),
         }
         print(f"  {name:8s} {results[name]}")
     REPORTS_DIR.mkdir(parents=True, exist_ok=True)

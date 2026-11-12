@@ -3,21 +3,21 @@
     "rows": 200000,
     "size_mb": 81.7,
     "write_s": 1.33,
-    "read_s": 0.09,
+    "read_s": 0.07,
     "memory_mb": 89.9
   },
   "jsonl": {
     "rows": 200000,
-    "size_mb": 102.0,
-    "write_s": 0.98,
-    "read_s": 1.15,
+    "size_mb": 104.4,
+    "write_s": 0.95,
+    "read_s": 1.35,
     "memory_mb": 85.2
   },
   "parquet": {
     "rows": 200000,
     "size_mb": 50.6,
-    "write_s": 0.31,
-    "read_s": 0.55,
+    "write_s": 0.32,
+    "read_s": 0.13,
     "memory_mb": 81.6
   }
 }
