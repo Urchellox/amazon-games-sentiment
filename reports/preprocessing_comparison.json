@@ -1,0 +1,27 @@
+{
+  "n_reviews": 30000,
+  "tokens_total": 1676780,
+  "tokens_after_stopwords": 861544,
+  "methods": {
+    "none": {
+      "vocab_size": 30555,
+      "time_s": 0.08,
+      "vocab_reduction_pct": 0.0
+    },
+    "porter": {
+      "vocab_size": 20623,
+      "time_s": 0.34,
+      "vocab_reduction_pct": 32.5
+    },
+    "snowball": {
+      "vocab_size": 20486,
+      "time_s": 0.2,
+      "vocab_reduction_pct": 33.0
+    },
+    "lemma": {
+      "vocab_size": 23458,
+      "time_s": 2.11,
+      "vocab_reduction_pct": 23.2
+    }
+  }
+}
