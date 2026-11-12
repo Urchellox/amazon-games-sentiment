@@ -1,0 +1,48 @@
+{
+  "n_reviews": 739737,
+  "n_products": 74291,
+  "n_users": 626284,
+  "period": [
+    "1999-11-10",
+    "2023-09-12"
+  ],
+  "verified_share_pct": 86.1,
+  "html_br_share_pct": 14.6,
+  "classes": {
+    "counts": {
+      "negative": 134128,
+      "neutral": 54928,
+      "positive": 550681
+    },
+    "shares_pct": {
+      "negative": 18.1,
+      "neutral": 7.4,
+      "positive": 74.4
+    },
+    "imbalance_ratio": 10.0
+  },
+  "words_by_label": {
+    "negative": {
+      "mean": 65.3,
+      "median": 35.0
+    },
+    "neutral": {
+      "mean": 91.7,
+      "median": 43.0
+    },
+    "positive": {
+      "mean": 51.2,
+      "median": 21.0
+    }
+  },
+  "words_overall": {
+    "count": 739737.0,
+    "mean": 56.7,
+    "std": 116.4,
+    "min": 1.0,
+    "50%": 24.0,
+    "90%": 128.0,
+    "99%": 543.0,
+    "max": 5642.0
+  }
+}

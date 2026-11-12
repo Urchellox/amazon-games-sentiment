@@ -1,0 +1,33 @@
+erDiagram
+    PRODUCTS ||--o{ REVIEWS : "имеет"
+    REVIEWS ||--o{ PREDICTIONS : "имеет"
+    PRODUCTS {
+        TEXT parent_asin PK
+        TEXT product_title
+        TEXT main_category
+        TEXT store
+        TEXT categories
+        REAL average_rating
+        INTEGER rating_number
+        REAL price
+    }
+    REVIEWS {
+        INTEGER review_id PK
+        TEXT parent_asin FK
+        TEXT user_id
+        INTEGER rating
+        TEXT label
+        TEXT review_title
+        TEXT text
+        TEXT timestamp
+        INTEGER helpful_vote
+        INTEGER verified_purchase
+        INTEGER n_words
+    }
+    PREDICTIONS {
+        INTEGER prediction_id PK
+        INTEGER review_id FK
+        TEXT model
+        TEXT predicted_label
+        REAL score
+    }
