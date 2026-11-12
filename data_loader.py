@@ -144,22 +144,25 @@ def compare_formats(df, sample_size=200_000):
     return results
 
 
+def run():
+    """Полный цикл: товары и отзывы -> Parquet, замер форматов."""
+    print("Читаем товары...")
+    products = build_products()
+    save_parquet(products, PRODUCTS_PARQUET)
+    print(f"Товаров: {len(products):,}")
+
+    print("Читаем отзывы (несколько минут)...")
+    reviews = build_reviews()
+    save_parquet(reviews, REVIEWS_PARQUET)
+    print(f"Отзывов: {len(reviews):,}")
+    print(f"Память: {reviews.memory_usage(deep=True).sum() / 1e6:.0f} МБ")
+
+    print("Сравнение форматов (CSV / JSONL / Parquet)...")
+    compare_formats(reviews)
+
+
 if __name__ == "__main__":
     try:
-        print("Читаем товары...")
-        products = build_products()
-        save_parquet(products, PRODUCTS_PARQUET)
-        print(f"Товаров: {len(products):,}")
-
-        print("Читаем отзывы (несколько минут)...")
-        reviews = build_reviews()
-        save_parquet(reviews, REVIEWS_PARQUET)
-        print(f"Отзывов: {len(reviews):,}")
-        print(reviews.dtypes)
-        print(reviews.head(3).to_string())
-        print(f"Память: {reviews.memory_usage(deep=True).sum() / 1e6:.0f} МБ")
-
-        print("Сравнение форматов (CSV / JSONL / Parquet)...")
-        compare_formats(reviews)
+        run()
     except FileNotFoundError as e:
         print(f"Ошибка: {e}\nПоложите скачанные файлы в {RAW_DIR}")
