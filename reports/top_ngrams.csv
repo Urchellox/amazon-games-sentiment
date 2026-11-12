@@ -1,0 +1,136 @@
+label,n,rank,ngram,count
+negative,1,1,not,20835
+negative,1,2,game,20021
+negative,1,3,one,8671
+negative,1,4,no,7402
+negative,1,5,like,7363
+negative,1,6,get,6900
+negative,1,7,work,6869
+negative,1,8,would,6462
+negative,1,9,even,5556
+negative,1,10,controller,5443
+negative,1,11,play,5188
+negative,1,12,time,4935
+negative,1,13,don't,4884
+negative,1,14,games,4439
+negative,1,15,good,4293
+neutral,1,1,game,30560
+neutral,1,2,not,22440
+neutral,1,3,like,12929
+neutral,1,4,one,10807
+neutral,1,5,good,9623
+neutral,1,6,get,9403
+neutral,1,7,would,7984
+neutral,1,8,games,7630
+neutral,1,9,really,7378
+neutral,1,10,play,7188
+neutral,1,11,no,6896
+neutral,1,12,great,6617
+neutral,1,13,time,6472
+neutral,1,14,don't,5963
+neutral,1,15,use,5761
+positive,1,1,game,17812
+positive,1,2,great,9927
+positive,1,3,not,7975
+positive,1,4,like,6839
+positive,1,5,one,6540
+positive,1,6,good,6413
+positive,1,7,games,5284
+positive,1,8,get,4512
+positive,1,9,play,4504
+positive,1,10,really,4161
+positive,1,11,love,4045
+positive,1,12,well,4017
+positive,1,13,time,3720
+positive,1,14,works,3708
+positive,1,15,no,3636
+negative,2,1,not work,1685
+negative,2,2,stopped working,1188
+negative,2,3,waste money,1169
+negative,2,4,would not,1056
+negative,2,5,not buy,993
+negative,2,6,doesn't work,967
+negative,2,7,not worth,764
+negative,2,8,game not,717
+negative,2,9,didn't work,715
+negative,2,10,play game,598
+negative,2,11,game play,561
+negative,2,12,not recommend,553
+negative,2,13,not even,547
+negative,2,14,don't buy,540
+negative,2,15,no longer,537
+neutral,2,1,game not,893
+neutral,2,2,game play,833
+neutral,2,3,feel like,748
+neutral,2,4,not sure,709
+neutral,2,5,not bad,683
+neutral,2,6,sound quality,653
+neutral,2,7,pretty good,642
+neutral,2,8,not good,637
+neutral,2,9,good game,606
+neutral,2,10,not work,560
+neutral,2,11,don't know,554
+neutral,2,12,much better,539
+neutral,2,13,play game,530
+neutral,2,14,xbox one,526
+neutral,2,15,not much,525
+positive,2,1,works great,1153
+positive,2,2,great game,910
+positive,2,3,highly recommend,521
+positive,2,4,game play,487
+positive,2,5,love game,473
+positive,2,6,year old,462
+positive,2,7,works well,461
+positive,2,8,great product,458
+positive,2,9,fun game,451
+positive,2,10,would recommend,426
+positive,2,11,xbox one,388
+positive,2,12,son loves,385
+positive,2,13,sound quality,360
+positive,2,14,good game,356
+positive,2,15,one best,348
+negative,3,1,would not recommend,323
+negative,3,2,don't waste money,314
+negative,3,3,not worth money,153
+negative,3,4,waste time money,139
+negative,3,5,don't waste time,110
+negative,3,6,get money back,108
+negative,3,7,could not get,97
+negative,3,8,would not work,95
+negative,3,9,not buy game,88
+negative,3,10,stopped working months,83
+negative,3,11,not waste money,81
+negative,3,12,would not buy,81
+negative,3,13,no longer works,79
+negative,3,14,complete waste money,70
+negative,3,15,game not work,68
+neutral,3,1,don't get wrong,138
+neutral,3,2,not bad game,118
+neutral,3,3,would not recommend,102
+neutral,3,4,gets job done,84
+neutral,3,5,sound quality good,71
+neutral,3,6,single player campaign,69
+neutral,3,7,not big deal,68
+neutral,3,8,xbox one controller,68
+neutral,3,9,ping ping ping,63
+neutral,3,10,really wanted like,60
+neutral,3,11,don't feel like,55
+neutral,3,12,first person shooter,54
+neutral,3,13,could not get,53
+neutral,3,14,good sound quality,53
+neutral,3,15,single player game,50
+positive,3,1,would definitely recommend,106
+positive,3,2,year old son,90
+positive,3,3,would highly recommend,85
+positive,3,4,best game ever,82
+positive,3,5,game ever played,76
+positive,3,6,one best games,73
+positive,3,7,well worth money,66
+positive,3,8,worth every penny,66
+positive,3,9,would recommend anyone,64
+positive,3,10,works really well,54
+positive,3,11,can't go wrong,54
+positive,3,12,son loves game,51
+positive,3,13,xbox one controller,50
+positive,3,14,game lot fun,50
+positive,3,15,sound quality good,49

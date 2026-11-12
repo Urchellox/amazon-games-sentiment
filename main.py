@@ -4,12 +4,16 @@ import pandas as pd
 import data_loader
 import database
 import eda
+import analysis
+import preprocessing
 
 MENU = {
     "1": "Загрузить сырые данные -> Parquet",
     "2": "Провести EDA (метки, графики)",
     "3": "Создать базу SQLite",
     "4": "Показать статистику базы",
+    "5": "Сравнить stemming и lemmatization",
+    "6": "Частотный анализ и n-граммы",
     "0": "Выход",
 }
 
@@ -95,12 +99,28 @@ def action_show_stats():
     finally:
         conn.close()
 
+def action_preprocessing():
+    """Пункт 5: сравнение stemming и lemmatization."""
+    try:
+        preprocessing.run_comparison()
+    except FileNotFoundError:
+        print("Не найден reviews.parquet. Сначала выберите пункт 1.")
+
+
+def action_analysis():
+    """Пункт 6: частотный анализ и n-граммы."""
+    try:
+        analysis.run_analysis()
+    except FileNotFoundError:
+        print("Не найден reviews.parquet. Сначала выберите пункт 1.")
 
 ACTIONS = {
     "1": action_load_data,
     "2": action_eda,
     "3": action_build_db,
     "4": action_show_stats,
+    "5": action_preprocessing,
+    "6": action_analysis,
 }
 
 
