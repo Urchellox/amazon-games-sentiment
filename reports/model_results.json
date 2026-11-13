@@ -1,0 +1,56 @@
+{
+  "majority": {
+    "accuracy": 0.7444,
+    "f1_macro": 0.2845,
+    "per_class": {
+      "negative": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "neutral": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "positive": {
+        "precision": 0.7444,
+        "recall": 1.0,
+        "f1": 0.8535
+      }
+    },
+    "train_s": 0.0,
+    "predict_s": 0.0,
+    "peak_mem_mb": 0,
+    "n_train": 160000,
+    "n_test": 40000,
+    "notes": "всегда 'positive'"
+  },
+  "vader": {
+    "accuracy": 0.7427,
+    "f1_macro": 0.4894,
+    "per_class": {
+      "negative": {
+        "precision": 0.6003,
+        "recall": 0.4835,
+        "f1": 0.5356
+      },
+      "neutral": {
+        "precision": 0.0673,
+        "recall": 0.0798,
+        "f1": 0.073
+      },
+      "positive": {
+        "precision": 0.8476,
+        "recall": 0.872,
+        "f1": 0.8596
+      }
+    },
+    "train_s": 0.0,
+    "predict_s": 10.11,
+    "peak_mem_mb": 4,
+    "n_train": 160000,
+    "n_test": 40000,
+    "notes": "лексикон, порог ±0.05"
+  }
+}

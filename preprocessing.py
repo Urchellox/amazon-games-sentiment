@@ -14,8 +14,9 @@ from data_loader import REPORTS_DIR, REVIEWS_PARQUET
 
 NLTK_RESOURCES = {
     "stopwords": "corpora/stopwords",
-    "wordnet": "corpora/wordnet",
-    "omw-1.4": "corpora/omw-1.4",
+    "wordnet": "corpora/wordnet.zip",
+    "omw-1.4": "corpora/omw-1.4.zip",
+    "vader_lexicon": "sentiment/vader_lexicon.zip",
 }
 TAG_RE = re.compile(r"<[^>]+>")
 POSSESSIVE_RE = re.compile(r"'s\b")
@@ -41,12 +42,13 @@ def build_stopwords():
     keep = {w for w in stop if "n't" in w or w in {"no", "nor", "not"}}
     return stop - keep
 
+def remove_html(text):
+    """Убирает HTML-теги и сущности (регистр и пунктуацию не трогает)."""
+    return html.unescape(TAG_RE.sub(" ", text))
 
 def clean_text(text):
     """Убирает HTML, нормализует апострофы, переводит в нижний регистр."""
-    text = TAG_RE.sub(" ", text)          # сначала теги, потом сущности (&lt; -> <)
-    text = html.unescape(text)
-    text = text.replace("’", "'").lower()
+    text = remove_html(text).replace("’", "'").lower()
     return POSSESSIVE_RE.sub("", text)    # game's -> game
 
 
