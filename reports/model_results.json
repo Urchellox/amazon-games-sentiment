@@ -52,5 +52,140 @@
     "n_train": 160000,
     "n_test": 40000,
     "notes": "лексикон, порог ±0.05"
+  },
+  "bow_uni_none": {
+    "accuracy": 0.8065,
+    "f1_macro": 0.6409,
+    "per_class": {
+      "negative": {
+        "precision": 0.6931,
+        "recall": 0.7476,
+        "f1": 0.7193
+      },
+      "neutral": {
+        "precision": 0.2385,
+        "recall": 0.4111,
+        "f1": 0.3019
+      },
+      "positive": {
+        "precision": 0.9468,
+        "recall": 0.8603,
+        "f1": 0.9015
+      }
+    },
+    "train_s": 14.61,
+    "predict_s": 1.04,
+    "peak_mem_mb": 172,
+    "n_train": 160000,
+    "n_test": 40000,
+    "notes": "bow, n-граммы (1, 1), нормализация: none, признаков: 27,005"
+  },
+  "tfidf_uni_none": {
+    "accuracy": 0.7882,
+    "f1_macro": 0.6445,
+    "per_class": {
+      "negative": {
+        "precision": 0.7055,
+        "recall": 0.7558,
+        "f1": 0.7298
+      },
+      "neutral": {
+        "precision": 0.2276,
+        "recall": 0.5189,
+        "f1": 0.3164
+      },
+      "positive": {
+        "precision": 0.9626,
+        "recall": 0.823,
+        "f1": 0.8873
+      }
+    },
+    "train_s": 9.39,
+    "predict_s": 1.04,
+    "peak_mem_mb": 110,
+    "n_train": 160000,
+    "n_test": 40000,
+    "notes": "tfidf, n-граммы (1, 1), нормализация: none, признаков: 27,005"
+  },
+  "tfidf_bi_none": {
+    "accuracy": 0.8304,
+    "f1_macro": 0.6742,
+    "per_class": {
+      "negative": {
+        "precision": 0.7313,
+        "recall": 0.8008,
+        "f1": 0.7645
+      },
+      "neutral": {
+        "precision": 0.2763,
+        "recall": 0.4525,
+        "f1": 0.3431
+      },
+      "positive": {
+        "precision": 0.9585,
+        "recall": 0.8753,
+        "f1": 0.915
+      }
+    },
+    "train_s": 38.65,
+    "predict_s": 1.74,
+    "peak_mem_mb": 638,
+    "n_train": 160000,
+    "n_test": 40000,
+    "notes": "tfidf, n-граммы (1, 2), нормализация: none, признаков: 273,366"
+  },
+  "tfidf_bi_snowball": {
+    "accuracy": 0.8266,
+    "f1_macro": 0.6692,
+    "per_class": {
+      "negative": {
+        "precision": 0.7269,
+        "recall": 0.7976,
+        "f1": 0.7606
+      },
+      "neutral": {
+        "precision": 0.2666,
+        "recall": 0.4465,
+        "f1": 0.3338
+      },
+      "positive": {
+        "precision": 0.9589,
+        "recall": 0.8716,
+        "f1": 0.9132
+      }
+    },
+    "train_s": 35.41,
+    "predict_s": 1.9,
+    "peak_mem_mb": 550,
+    "n_train": 160000,
+    "n_test": 40000,
+    "notes": "tfidf, n-граммы (1, 2), нормализация: snowball, признаков: 273,092"
+  },
+  "tfidf_bi_lemma": {
+    "accuracy": 0.8266,
+    "f1_macro": 0.668,
+    "per_class": {
+      "negative": {
+        "precision": 0.7273,
+        "recall": 0.7948,
+        "f1": 0.7596
+      },
+      "neutral": {
+        "precision": 0.2646,
+        "recall": 0.4421,
+        "f1": 0.331
+      },
+      "positive": {
+        "precision": 0.9585,
+        "recall": 0.8727,
+        "f1": 0.9136
+      }
+    },
+    "train_s": 34.71,
+    "predict_s": 1.94,
+    "peak_mem_mb": 613,
+    "n_train": 160000,
+    "n_test": 40000,
+    "notes": "tfidf, n-граммы (1, 2), нормализация: lemma, признаков: 266,697"
   }
 }
