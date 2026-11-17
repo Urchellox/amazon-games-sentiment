@@ -47,8 +47,8 @@
       }
     },
     "train_s": 0.0,
-    "predict_s": 10.11,
-    "peak_mem_mb": 4,
+    "predict_s": 9.82,
+    "peak_mem_mb": 5,
     "n_train": 160000,
     "n_test": 40000,
     "notes": "лексикон, порог ±0.05"
@@ -73,9 +73,9 @@
         "f1": 0.9015
       }
     },
-    "train_s": 14.61,
-    "predict_s": 1.04,
-    "peak_mem_mb": 172,
+    "train_s": 14.88,
+    "predict_s": 0.94,
+    "peak_mem_mb": 151,
     "n_train": 160000,
     "n_test": 40000,
     "notes": "bow, n-граммы (1, 1), нормализация: none, признаков: 27,005"
@@ -100,9 +100,9 @@
         "f1": 0.8873
       }
     },
-    "train_s": 9.39,
-    "predict_s": 1.04,
-    "peak_mem_mb": 110,
+    "train_s": 9.74,
+    "predict_s": 0.94,
+    "peak_mem_mb": 102,
     "n_train": 160000,
     "n_test": 40000,
     "notes": "tfidf, n-граммы (1, 1), нормализация: none, признаков: 27,005"
@@ -127,9 +127,9 @@
         "f1": 0.915
       }
     },
-    "train_s": 38.65,
-    "predict_s": 1.74,
-    "peak_mem_mb": 638,
+    "train_s": 49.05,
+    "predict_s": 1.67,
+    "peak_mem_mb": 653,
     "n_train": 160000,
     "n_test": 40000,
     "notes": "tfidf, n-граммы (1, 2), нормализация: none, признаков: 273,366"
@@ -154,9 +154,9 @@
         "f1": 0.9132
       }
     },
-    "train_s": 35.41,
-    "predict_s": 1.9,
-    "peak_mem_mb": 550,
+    "train_s": 34.86,
+    "predict_s": 1.8,
+    "peak_mem_mb": 540,
     "n_train": 160000,
     "n_test": 40000,
     "notes": "tfidf, n-граммы (1, 2), нормализация: snowball, признаков: 273,092"
@@ -181,11 +181,38 @@
         "f1": 0.9136
       }
     },
-    "train_s": 34.71,
-    "predict_s": 1.94,
-    "peak_mem_mb": 613,
+    "train_s": 33.54,
+    "predict_s": 1.79,
+    "peak_mem_mb": 561,
     "n_train": 160000,
     "n_test": 40000,
     "notes": "tfidf, n-граммы (1, 2), нормализация: lemma, признаков: 266,697"
+  },
+  "minilm_lr": {
+    "accuracy": 0.7258,
+    "f1_macro": 0.5951,
+    "per_class": {
+      "negative": {
+        "precision": 0.6396,
+        "recall": 0.7001,
+        "f1": 0.6685
+      },
+      "neutral": {
+        "precision": 0.1848,
+        "recall": 0.5421,
+        "f1": 0.2756
+      },
+      "positive": {
+        "precision": 0.957,
+        "recall": 0.7503,
+        "f1": 0.8412
+      }
+    },
+    "train_s": 155.27,
+    "predict_s": 247.05,
+    "peak_mem_mb": 926,
+    "n_train": 30000,
+    "n_test": 40000,
+    "notes": "all-MiniLM-L6-v2 + LR (balanced), обучение на подвыборке; эмбеддинги train 154 с, fit LR 1.0 с"
   }
 }
