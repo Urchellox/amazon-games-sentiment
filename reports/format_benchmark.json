@@ -2,22 +2,22 @@
   "csv": {
     "rows": 200000,
     "size_mb": 81.7,
-    "write_s": 1.33,
-    "read_s": 0.07,
+    "write_s": 1.09,
+    "read_s": 0.05,
     "memory_mb": 89.9
   },
   "jsonl": {
     "rows": 200000,
     "size_mb": 104.4,
-    "write_s": 0.95,
-    "read_s": 1.35,
+    "write_s": 0.79,
+    "read_s": 1.1,
     "memory_mb": 85.2
   },
   "parquet": {
     "rows": 200000,
     "size_mb": 50.6,
-    "write_s": 0.32,
-    "read_s": 0.13,
+    "write_s": 0.27,
+    "read_s": 0.11,
     "memory_mb": 81.6
   }
 }

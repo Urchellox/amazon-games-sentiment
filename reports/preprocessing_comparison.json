@@ -5,22 +5,22 @@
   "methods": {
     "none": {
       "vocab_size": 30555,
-      "time_s": 0.08,
+      "time_s": 0.2,
       "vocab_reduction_pct": 0.0
     },
     "porter": {
       "vocab_size": 20623,
-      "time_s": 0.34,
+      "time_s": 0.96,
       "vocab_reduction_pct": 32.5
     },
     "snowball": {
       "vocab_size": 20486,
-      "time_s": 0.2,
+      "time_s": 0.69,
       "vocab_reduction_pct": 33.0
     },
     "lemma": {
       "vocab_size": 23458,
-      "time_s": 2.11,
+      "time_s": 5.79,
       "vocab_reduction_pct": 23.2
     }
   }
