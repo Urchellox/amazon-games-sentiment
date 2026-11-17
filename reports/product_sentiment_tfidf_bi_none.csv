@@ -1,0 +1,577 @@
+parent_asin,product_title,main_category,n_reviews,avg_rating,pred_pos_pct,pred_neg_pct,true_pos_pct,accuracy_pct
+B009GE437W,"Remote Plus, Mario - Nintendo Wii",Video Games,21,4.76,100.0,0.0,95.2,95.2
+B00DC7G2W8,Mario Kart 8 - Nintendo Wii U,Video Games,21,4.76,100.0,0.0,100.0,100.0
+B07XV4NHHN,Ring Fit Adventure - Nintendo Switch,Video Games,21,5.0,100.0,0.0,100.0,100.0
+0399588175,Born a Crime: Stories from a South African Childhood,Books,13,4.92,100.0,0.0,100.0,100.0
+B009VUHVPM,Skylanders Giants: Single Character Pack Core Series 2 Bash,Video Games,13,4.92,100.0,0.0,100.0,100.0
+B087NM8BB6,Luigi's Mansion 3 - Nintendo Switch [Digital Code],Video Games,13,4.69,100.0,0.0,92.3,92.3
+B07HNW68ZC,Oculus Quest All-in-one VR Gaming Headset – 64GB,Video Games,11,4.82,100.0,0.0,100.0,100.0
+B001DPZE84,Microsoft Flight Simulator X: Gold Edition,Video Games,10,4.7,100.0,0.0,100.0,100.0
+B005FMLZQQ,Xbox 360 Media Remote,Video Games,10,4.8,100.0,0.0,100.0,100.0
+B00YOGZFCO,Skylanders SuperChargers Racing Starter Pack - Wii,Video Games,10,5.0,100.0,0.0,100.0,100.0
+B0CB8LZT7K,"Daydayup Switch Carrying Case Compatible with Nintendo Switch/Switch OLED, with 20 Games Cartridges Protective Hard Shell Travel Carrying Case Pouch for Console & Accessories, Black",Video Games,33,4.82,97.0,3.0,100.0,97.0
+B0088TN7NW,Just Dance 4,Video Games,30,4.9,96.7,0.0,96.7,93.3
+B087NN2K41,Mario Kart 8 Deluxe – Booster Course Pass - Nintendo Switch [Digital Code],Video Games,28,4.93,96.4,0.0,100.0,96.4
+B07RQP5S8C,"Lamicall Adjustable Phone Tablet Stand, Playstand for Switch, Foldable Desk Holder, Compatible with iPad Mini, 9.7'' iPad Pro Air, Phone 12 Mini 11 Pro Xs Xs Max Xr X 8 7 6 6s Plus SE- Silver 4-10''",Cell Phones & Accessories,22,4.77,95.5,4.5,95.5,100.0
+B07X1TFSQ4,"Orzly Accessories Bundle for Switch Lite - Case & Screen Protector for Nintendo Switch Lite Console, USB Cable, Games Holder, Comfort Grip Case, Headphones, Thumb-Grip Pack & More - Pink",All Electronics,19,4.68,94.7,5.3,94.7,100.0
+B087NNPYP3,The Legend of Zelda: Breath of the Wild Master Edition - Nintendo Switch,Video Games,54,4.69,94.4,5.6,92.6,98.1
+B004GUTRYK,Portal 2 - PC,Video Games,18,4.94,94.4,0.0,100.0,94.4
+B00SZ1DQFM,LEGO Jurassic World - Xbox One Standard Edition,Video Games,17,4.71,94.1,0.0,94.1,94.1
+B01BF9X6LO,LEGO Star Wars: The Force Awakens - PlayStation Vita Standard Edition,Video Games,17,4.65,94.1,0.0,88.2,94.1
+B01GY3601E,God of War Stone Mason's Edition - PlayStation 4,Video Games,15,4.8,93.3,6.7,93.3,100.0
+B07YBXFF99,Dishonored - PlayStation 3 Game of the Year Edition,Video Games,15,4.4,93.3,0.0,86.7,80.0
+B091T4Y9WT,"Fintie Carrying Case for Nintendo Switch OLED Model 2021/Switch 2017, [Shockproof] Hard Shell Protective Cover Travel Bag w/10 Game Card Slots for Switch Console Joy-Con & Accessories, Black",Video Games,15,4.8,93.3,0.0,93.3,86.7
+B00YQM1PNY,UNCHARTED: The Nathan Drake Collection - PlayStation 4,Video Games,14,4.79,92.9,7.1,92.9,92.9
+B07F36FWMQ,"Gamecube Adapter for Nintendo Switch Gamecube Controller Adapter and WII U and PC, Super Smash Bros Gamecube Controller Adapter. Support Turbo and Vibration Features with 180cm Long Cable",All Electronics,14,4.79,92.9,0.0,100.0,92.9
+B00HM1XPN4,Tomb Raider: Definitive Edition - Xbox One,Video Games,13,4.85,92.3,0.0,92.3,100.0
+B00NFXON1Q,Xbox One 500GB Console - Assassin's Creed Unity Bundle,Video Games,13,4.62,92.3,7.7,92.3,100.0
+B00D7B9M0I,Skylanders SWAP Force Value Bundle Starter Pack - Wii U,Video Games,24,4.75,91.7,4.2,95.8,95.8
+B07H9NDGNL,"VersionTECH. Wired Gaming Mouse, Computer Mouse Ergonomic Mice with 7 LED Lights RGB Backlit, 6 Programmable Buttons, 4 Adjustable DPI for Laptop PC Gamer Desktop Chromebook Mac Games-Black",Computers,24,4.75,91.7,4.2,95.8,95.8
+B002B9XB0E,Buffalo iBuffalo Classic USB Gamepad for PC,Computers,12,4.58,91.7,8.3,91.7,91.7
+B00UG63VDG,TAKECASE Hard Shell Carrying Case - Compatible with Nintendo 3DS XL and 2DS XL - Fits 16 Game Cards and Wall Charger - Includes Removable Accessories Pouch and Extra Large Stylus Orange,All Electronics,12,4.92,91.7,0.0,100.0,91.7
+B075YBBQMM,"PS4 Controller Charger Dock Station, OIVO PS4 Controller Charging Dock Station with Upgraded 1.8-Hours Charging Chip, Charging Dock Station Replacement for Playstation 4 Dualshock 4 Controller Charger",All Electronics,12,5.0,91.7,8.3,100.0,91.7
+B07CV6LH3V,"Mumba Case for Nintendo Switch, [Heavy Duty] Slim Rubberized [Snap on] Hard Case Cover for Nintendo Switch 2017 Release (Black)",Cell Phones & Accessories,12,4.67,91.7,0.0,91.7,100.0
+B07HYW4XMP,Sonic Generations - Nintendo 3DS,Video Games,12,4.42,91.7,8.3,91.7,83.3
+B081TFS43Y,"Orzly Switch Accessories Bundle – Carry Case for Nintendo Switch Console (NOT OLED MODEL) Tempered Glass Screen Protectors, USB Charging Cable, Switch Games Case, Comfort Grip Case & Headphones - RED",Video Games,12,4.83,91.7,8.3,91.7,91.7
+B00KVP78FE,DualShock 4 - Camo,Video Games,23,4.7,91.3,8.7,91.3,95.7
+B00KTORA0K,Just Dance 2015 - Wii,Video Games,22,4.55,90.9,4.5,95.5,95.5
+B0088MVPFQ,New Super Mario Bros. 2,Video Games,11,4.64,90.9,0.0,81.8,90.9
+B00QO4NAOO,MLB 15: The Show (10th Anniversary Edition),Video Games,11,4.55,90.9,9.1,90.9,100.0
+B07P9VKCF6,LEGO Harry Potter: Collection - Xbox One,Video Games,11,4.91,90.9,9.1,100.0,90.9
+B082NMKX7K,"eXtremeRate Weeds Patterned Front Housing Shell Faceplate for Xbox One Wireless Controller Model 1708, Soft Touch Relacemet Cover for Xbox One S/X Controller - Controller NOT Included",Video Games,11,4.82,90.9,0.0,100.0,90.9
+B08GCGZ221,"JETech Protective Case for Nintendo Switch Lite 2019, Grip Cover with Shock-Absorption and Anti-Scratch Design, HD Clear",All Electronics,11,4.64,90.9,0.0,90.9,100.0
+B09MGJXGBF,The Legend of Zelda: Breath of the Wild - Wii U,Video Games,11,4.64,90.9,9.1,81.8,81.8
+B09TX17ZBQ,Oculus Quest All-in-one VR Gaming Headset – 128GB,Video Games,11,4.27,90.9,9.1,81.8,90.9
+B002Z01QO2,New Super Mario Bros. Wii,Video Games,21,4.67,90.5,4.8,90.5,100.0
+B01IC2A28C,Pokémon Sun and Pokémon Moon Steelbook Dual Pack – Nintendo 3DS (Amazon Exclusive),Video Games,30,4.8,90.0,6.7,96.7,90.0
+B00BZS9JV2,Rayman Legends [Download],Video Games,20,4.6,90.0,10.0,95.0,95.0
+B00000JRSB,Final Fantasy VII - PlayStation,Video Games,10,4.4,90.0,10.0,90.0,100.0
+B00005NZ1G,Halo: Combat Evolved (Not for Resale),Video Games,10,4.4,90.0,0.0,90.0,80.0
+B001ELJE5G,Guitar Hero III: Legends of Rock - Xbox 360,Video Games,10,4.5,90.0,10.0,90.0,100.0
+B002I0GF72,The Legend of Zelda: The Wind Waker HD,Video Games,10,4.5,90.0,10.0,90.0,100.0
+B002MWSY3O,Just Dance - Nintendo Wii,Video Games,10,4.8,90.0,0.0,100.0,90.0
+B003ZHMMEM,Donkey Kong Country Returns,Video Games,10,4.2,90.0,10.0,80.0,90.0
+B00CISMP8M,FIFA 14 - Xbox 360,Video Games,10,4.5,90.0,10.0,90.0,100.0
+B00CMQTVUA,Xbox One + Kinect,Video Games,10,4.6,90.0,0.0,90.0,100.0
+B00NETKFJU,Skylanders Trap Team: Hijinx & Eye Small - Mini Character 2 Pack,Video Games,10,4.6,90.0,10.0,90.0,100.0
+B00Z9TJHEC,Hyrule Warriors: Legends - Nintendo 3DS,Video Games,10,4.4,90.0,10.0,90.0,100.0
+B013OW09WY,Skylanders SuperChargers: Drivers Big Bubble Pop Fizz Character Pack,Video Games,10,5.0,90.0,0.0,100.0,90.0
+B071P1CN1T,"Jeecoo G1500 Stereo Gaming Headset with Microphone Compatible with PC, PS4, PS4 Pro, Xbox One S, Xbox One Controller, Nintendo Switch Games",Computers,10,4.5,90.0,10.0,90.0,100.0
+B07SY8G74T,"VGAME Switch Charger for Nintendo Switch/Switch OLED/Switch Lite - Fully Charged AC Power Supply Within 2.5H with 5FT USB C Cable, Compatible Android Phone and Switch Dock (Black)",All Electronics,10,4.4,90.0,10.0,90.0,100.0
+B08KFZQHB3,"Logitech G PRO X SUPERLIGHT Wireless Gaming Mouse, Ultra-Lightweight, HERO 25K Sensor, 25,600 DPI, 5 Programmable Buttons, Long Battery Life, Compatible with PC / Mac - Black",Computers,10,4.6,90.0,10.0,90.0,100.0
+B0BKH2DWNP,"Xbox Elite Series 2 Custom Soft Touch Controller - Soft Touch Feel, Added Grip, Neon Green Color - Compatible with Xbox One, Series X, Series S",Computers,10,4.6,90.0,10.0,90.0,100.0
+B0CC54JD8L,"Ozeino Gaming Headset PS5 PS4 Headset with 7.1 Surround Sound, Gaming Headphones with Noise Cancelling Flexible Mic RGB LED Light Memory Earmuffs for PS5, PS4, Xbox one, PC, Mac",All Electronics,10,4.8,90.0,10.0,100.0,90.0
+B072V478NR,Amazon Basics Carrying Case for Nintendo Switch - Black,Video Games,29,4.55,89.7,3.4,82.8,89.7
+B00DB2BI00,Just Dance 2014 - Nintendo Wii,Video Games,19,4.37,89.5,5.3,84.2,89.5
+B00KSVXSZU,Turtle Beach - Ear Force XO One Amplified Gaming Headset and Headset Audio Controller- Xbox One,Video Games,19,4.68,89.5,5.3,94.7,94.7
+B09MRM36JJ,Razer Gaming Mouse (2018 Model),Computers,19,4.16,89.5,5.3,73.7,84.2
+B001EHD9N8,Lego Star Wars: The Complete Saga - Xbox 360,Video Games,18,4.56,88.9,5.6,88.9,88.9
+B00BU3ZLJQ,Minecraft,Video Games,18,4.67,88.9,11.1,88.9,88.9
+B087SHFL9B,Super Mario Odyssey - Nintendo Switch,Video Games,18,4.61,88.9,11.1,88.9,94.4
+B0BZFWMYSQ,PlayStation 5 Console (PS5),Video Games,18,4.33,88.9,11.1,83.3,94.4
+B009VUHW60,Activision Skylanders Single Bouncer Giant Character,Video Games,17,4.59,88.2,5.9,94.1,94.1
+B01GY35W22,Marvel’s Spider-Man - PlayStation 4,Video Games,17,4.71,88.2,5.9,94.1,94.1
+0375869026,Wonder,Books,33,4.61,87.9,3.0,90.9,78.8
+B005GFPZYK,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,Buy a Kindle,48,4.65,87.5,10.4,91.7,85.4
+B00I5LAGM8,Metal Gear Solid V: Ground Zeroes - PlayStation 3 Standard Edition,Video Games,16,4.63,87.5,6.3,87.5,87.5
+B00JL6N3EO,Skylanders Trap Team Starter Pack - Nintendo 3DS,Video Games,16,4.44,87.5,12.5,87.5,100.0
+B0C37RBK2R,Xbox Series S,Video Games,16,4.63,87.5,12.5,93.8,93.8
+B07ZJ6RY1W,$45 Nintendo eShop Gift Card [Digital Code],Video Games,39,4.51,87.2,10.3,87.2,92.3
+B005669IE2,Just Dance 3,Video Games,31,4.58,87.1,3.2,90.3,93.5
+B00KWOSQC8,Pokémon Alpha Sapphire - Nintendo 3DS,Video Games,23,4.52,87.0,8.7,82.6,78.3
+B01H1GJ7IQ,"PS4 Controller Charger, Y Team Dual USB PS4 Charging Dock Station with Protection Chip LED Indicator, 2 Hrs Fast Safe Charging PS4 Charger for Playstation 4/PS4 Pro/PS4 Slim",All Electronics,23,4.52,87.0,13.0,87.0,95.7
+B07VFYBMTS,"Redragon M801 Gaming Mouse LED RGB Backlit MMO 9 Programmable Buttons Mouse with Macro Recording Side Buttons Rapid Fire Button 16000 DPI for Windows PC Gamer (Wireless, Black)",Computers,23,4.65,87.0,8.7,91.3,95.7
+B0BWXXWVV6,"Logitech G305 LIGHTSPEED Wireless Gaming Mouse, Hero 12K Sensor, 12,000 DPI, Lightweight, 6 Programmable Buttons, 250h Battery Life, On-Board Memory, PC/Mac - Blue",Computers,23,4.57,87.0,8.7,91.3,95.7
+B00BN5T30E,Assassin's Creed IV Black Flag - PC,Video Games,30,4.77,86.7,0.0,93.3,86.7
+B00K5HTPR2,NBA 2K15 - PlayStation 3,Video Games,30,4.67,86.7,3.3,93.3,80.0
+B0053BCML6,Animal Crossing: New Leaf,Video Games,15,4.73,86.7,0.0,86.7,100.0
+B00RSXRLUE,"Mayflash GameCube Controller Adapter for Wii U, PC USB and Switch, 4 Port",Computers,15,4.6,86.7,13.3,93.3,93.3
+B00XBLQCLQ,Assassin’s Creed Syndicate - Gold Edition | PC Code - Ubisoft Connect,Video Games,15,4.6,86.7,13.3,86.7,93.3
+B0721GGGS9,Super NES Classic,Video Games,22,4.82,86.4,4.5,95.5,90.9
+B08F4D36D9,Pokémon Sword + Pokémon Sword Expansion Pass - Nintendo Switch,Video Games,22,4.5,86.4,9.1,86.4,90.9
+B0088TN73M,Injustice: Gods Among Us - Collector's Edition - Playstation 3,Video Games,21,4.52,85.7,9.5,85.7,81.0
+B00ZHQ39F0,Just Dance 2016 - PlayStation 4,Video Games,21,4.67,85.7,4.8,85.7,95.2
+B000VJRU44,Wii Fit Game with Balance Board,Video Games,14,4.79,85.7,7.1,100.0,85.7
+B00CMQTVK0,Xbox One with Kinect (Day One Edition),Video Games,14,4.0,85.7,14.3,78.6,92.9
+B0728H6KPV,"Charger for Nintendo Switch, YCCTEAM Charger AC Adapter Power Supply 15V 2.6A Fast Charging Kit Compatible with Switch OLED/Switch Dock and Pro Controller (Support TV Mode),Black",Cell Phones & Accessories,14,4.64,85.7,7.1,92.9,92.9
+B07H5NGZQ8,"JETech Protective Case for Nintendo Switch 2017, Grip Cover with Shock-Absorption and Anti-Scratch Design (Blue)",Video Games,14,4.5,85.7,7.1,85.7,100.0
+B07SQZ3GJG,[3 Pack] daydayup Tempered Glass Screen Protector Compatible with Nintendo switch - Transparent HD Clear Anti-Scratch Screen Protector for Nintendo Switch,Cell Phones & Accessories,14,4.36,85.7,7.1,85.7,92.9
+B07ZGJB3WG,Xbox Game Pass Ultimate: 3 Month Membership [Digital Code],Video Games,14,4.93,85.7,7.1,100.0,85.7
+B001GIUWX0,Mario Kart Wii,Video Games,20,4.65,85.0,5.0,90.0,95.0
+B07D53QSMK,"FASTSNAIL Grips Compatible with Nintendo Switch for Joy Con & OLED Model for Joycon, Wear-resistant Handle Kit Compatible with Joy Cons Controllers, 2 Pack(Green and Yellow)",All Electronics,20,4.8,85.0,0.0,95.0,90.0
+B09QL4J4NW,"Micro USB Cable,15Ft Extra Long PS4 Controller Charger Cable, DEEGO Durable Android Charging Cord for Samsung Galaxy S7 Edge S6,Note 5,Note 4,Moto G5,Android Phone,Kindle Fire,Black",Cell Phones & Accessories,20,4.55,85.0,10.0,90.0,95.0
+B0BYPDQN2W,"Elgato Stream Deck Mini – Compact Studio Controller, 6 macro keys, trigger actions in apps and software like OBS, Twitch, ​YouTube and more, works with Mac and PC",Computers,20,4.55,85.0,5.0,90.0,85.0
+B017QU5G1O,"PDP Gaming Energizer Dual Controller Charging System, Two Rechargeable Battery Packs: Black - Xbox One",Video Games,33,4.36,84.8,9.1,87.9,93.9
+B005GISQX4,Borderlands 2 - 4 Pack [Download],Video Games,26,4.73,84.6,0.0,92.3,84.6
+B00BGA9X9W,DualShock 4 Wireless Controller for PlayStation 4 - Jet Black [Old Model],Video Games,26,4.58,84.6,15.4,88.5,96.2
+B00BQVXVYY,LEGO: Marvel - PC,Video Games,26,4.27,84.6,3.8,80.8,84.6
+B014R4KYMS,Uncharted 4: A Thief's End - PlayStation 4,Video Games,26,4.62,84.6,3.8,92.3,88.5
+B000HZFCT2,Microsoft Xbox 360 Wireless Receiver for Windows,Computers,13,5.0,84.6,7.7,100.0,84.6
+B00940L38U,"Still Foolin' 'Em: Where I've Been, Where I'm Going, and Where the Hell Are My Keys?",Buy a Kindle,13,4.38,84.6,7.7,84.6,84.6
+B00O65I2VY,Microsoft Xbox One Controller + Cable for Windows,Computers,13,4.77,84.6,0.0,92.3,92.3
+B07TCPVHTM,"amFilm Tempered Screen Protector for Nintendo Switch Lite 2019, Glass, 3 Pack",Cell Phones & Accessories,13,4.38,84.6,15.4,92.3,92.3
+B017QU5KLK,Overwatch - Game of the Year Edition - Xbox One,Video Games,32,4.41,84.4,12.5,87.5,93.8
+B07KRWJCQW,$40 Xbox Gift Card [Digital Code],Video Games,37,4.41,83.8,13.5,83.8,83.8
+B07YBXFF5C,Doom - PC,Video Games,24,4.29,83.3,12.5,79.2,91.7
+B001PO2BJI,"Beastron Bluetooth Mario Kart Racing Wheel Compatible with Nintendo Wii, 2 Sets White Color Bundle",Video Games,18,4.72,83.3,5.6,94.4,88.9
+B002BSA3EM,Wii Fit Plus with Balance Board,Video Games,18,4.44,83.3,16.7,88.9,94.4
+B00BQVXUOA,Halo 4 - Xbox 360 (Standard Game),Video Games,18,4.56,83.3,11.1,88.9,83.3
+B00YQ74LVM,Nintendo New 3DS XL - Galaxy Style,Video Games,18,4.33,83.3,11.1,83.3,83.3
+B06ZYTHKR7,Call of Duty: WWII - PlayStation 4 Standard Edition,Video Games,18,4.72,83.3,11.1,94.4,83.3
+B07JVMRDGK,Razer BlackWidow Chroma: Clicky RGB Mechanical Gaming Keyboard - 5 Macro Keys - Razer Green Mechanical Switches (Tactile and Clicky),Computers,18,4.44,83.3,16.7,83.3,94.4
+B000OFSBL6,Component AV Cable for Nintendo Wii to HDTV,Video Games,12,4.67,83.3,0.0,91.7,75.0
+B003ZDOFF0,BioShock Infinite - PC,Video Games,12,4.5,83.3,8.3,83.3,75.0
+B00Z9V0NKC,"BENGOO Gaming Mouse Wired, USB Optical Computer Mice with RGB Backlit, 4 Adjustable DPI Up to 3600, Ergonomic Gamer Laptop PC Mouse with 6 Programmable Buttons for Windows 7/8/10/XP Vista Linux -Black",Cell Phones & Accessories,12,4.58,83.3,0.0,83.3,83.3
+B01MA5XZSG,"BENGOO Stereo Gaming Headset for PS4, PC, Xbox One Controller, Noise Cancelling Over Ear Headphones Mic, LED Light, Bass Surround, Soft Memory Earmuffs for Sega Genesis Gamecube PS5 –Camouflage",Computers,12,4.25,83.3,8.3,83.3,91.7
+B076GYVWRY,"ivoler Carrying Storage Case for Nintendo Switch/For Switch OLED Model (2021),Portable Travel All Protective Hard Messenger Bag Soft Lining 18Games for Switch Console Pro Controller Accessories Black",All Electronics,12,4.58,83.3,16.7,83.3,75.0
+B07XBV753V,Orzly Accessories Kit Bundle Compatible with Nintendo Switch OLED Console (NOT 2017 Edition Compatible) Ultimate Geek Pack with Case and Screen Protector and Much More - Ice White Gift Boxed,Cell Phones & Accessories,12,3.92,83.3,16.7,75.0,91.7
+B0086VPUHI,Grand Theft Auto V: Premium Edition - Xbox One [Digital Code],Video Games,106,4.3,83.0,14.2,84.0,95.3
+B081243BT6,Orzly Carrying case for Nintendo Switch OLED and Switch Console - Purple Protective Hard Portable Travel case Shell Pouch for Nintendo Switch Console & Accessories,Cell Phones & Accessories,53,4.53,83.0,1.9,90.6,84.9
+B00IAVDPSA,Xbox One Media Remote,Video Games,23,4.26,82.6,13.0,78.3,91.3
+B00EQNP8F4,Microsoft Xbox LIVE 12 Month Gold Membership (Physical Card),Video Games,34,4.38,82.4,11.8,88.2,94.1
+B0BXKJ4FTC,"KIWI design Head Strap with Halo Controller Protector Accessories, Elite Strap for Enhanced Support and Comfort Compatible with Quest 2",All Electronics,17,4.65,82.4,5.9,88.2,82.4
+B0C3KYVDWT,"SanDisk 128GB microSDXC-Card, Licensed for Nintendo-Switch - SDSQXAO-128G-GNCZN",Computers,45,4.71,82.2,13.3,91.1,86.7
+B01LRLJV28,PlayStation 4 Slim 500GB Console - Uncharted 4 Bundle Discontinued,Video Games,28,4.64,82.1,10.7,96.4,85.7
+B0795GHTBC,"ivoler [3 Pack Screen Protector Tempered Glass for Nintendo Switch, Transparent HD Clear Anti-Scratch Screen Protector Compatible Nintendo Switch",All Electronics,28,4.5,82.1,3.6,85.7,82.1
+B07HVPZP1Q,"PORTHOLIC Wii to HDMI Converter 1080P for Full HD Device, Wii HDMI Adapter with 3,5mm Audio Jack&HDMI Output Compatible with Nintendo Wii, Wii U, HDTV, Monitor-Supports All Wii Display Modes 720P, NTS",Computers,22,4.32,81.8,18.2,81.8,86.4
+B0017Q4DGI,Wii Sports,Sports & Outdoors,11,4.45,81.8,9.1,90.9,90.9
+B001C6GVI6,Shin Megami Tensei: Persona 4 - PlayStation 2,Video Games,11,5.0,81.8,0.0,100.0,81.8
+B001KMRN0M,PlayStation Portable 3000 Core Pack System - Piano Black,Video Games,11,4.18,81.8,18.2,81.8,100.0
+B002I092MM,Super Mario 3D Land,Video Games,11,4.73,81.8,9.1,90.9,90.9
+B00884S5N4,Dead Space 3 – PC Origin [Online Game Code],Video Games,11,4.55,81.8,9.1,90.9,81.8
+B009XGZTKI,Mass Effect Trilogy - Xbox 360,Video Games,11,4.64,81.8,9.1,90.9,90.9
+B00KCCNMYW,Diablo III: Ultimate Evil Edition,Video Games,11,4.45,81.8,9.1,81.8,81.8
+B010KYDNDG,Minecraft: Java Edition for PC/Mac [Online Game Code],Video Games,11,4.64,81.8,18.2,90.9,90.9
+B01GH9MVWW,Skylanders Imaginators - Crash Bandicoot Edition - PlayStation 4,Video Games,11,4.64,81.8,0.0,81.8,100.0
+B07VJRZ62R,Nintendo Switch with Gray Joy‑Con,All Electronics,11,4.18,81.8,18.2,81.8,100.0
+B08P3Q5GDS,"Gaming Keyboard and Mouse and Gaming Headset & Mouse Pad, Wired LED RGB Backlight Bundle for PC Gamers Users - 4 in 1 White Edition Hornet RX-250",All Electronics,11,4.45,81.8,18.2,81.8,90.9
+B09QVJDVHN,"Redragon K552 Mechanical Gaming Keyboard RGB LED Backlit Wired with Anti-Dust Proof Switches for Windows PC (White, 87 Key Red Switches)",Computers,11,4.82,81.8,0.0,100.0,81.8
+B08GYNLVF4,"Karvipark Gaming Headset for Xbox One/PS4/PS5/PC/Nintendo Switch|Noise Cancelling,Bass Surround Sound,Over Ear,3.5mm Stereo Wired Headphones with Mic for Clear Chat",Video Games,32,4.34,81.3,12.5,84.4,93.8
+B004ZCPKDG,Wii Sports Resort,Video Games,16,4.94,81.3,6.3,100.0,81.3
+B07VGRJDFY,Nintendo Switch with Neon Blue and Neon Red Joy‑Con,All Electronics,26,4.08,80.8,19.2,76.9,92.3
+B0CB7JB1V6,ASTARRY Wireless Pro Controller Compatible with Switch Lite/Switch OLED (Red),Video Games,26,4.31,80.8,11.5,84.6,92.3
+B00KQHHDZC,FIFA 15 [Online Game Code],Video Games,31,4.71,80.6,9.7,93.5,87.1
+B07114C4TL,"NES Classic Controller Extension Cable 3M / 10ft (2-Pack), i-Kawachi SNES Extension Power Cord for Super Nintendo SNES Classic Edition Controller (2017) and Mini NES Classic Edition (2016)",All Electronics,25,4.36,80.0,12.0,84.0,96.0
+B07V3T7WF1,"Nintendo Switch Lite - Blue with SanDisk 128GB microSDXC Card, Licensed for Nintendo Switch",Video Games,25,4.4,80.0,16.0,84.0,88.0
+B001EYUQDW,Borderlands Ultimate Edition - PS3 [Digital Code],Video Games,20,4.35,80.0,15.0,90.0,80.0
+B084DDDNRP,Nintendo Switch - Animal Crossing: New Horizons Edition - Switch,Video Games,20,3.85,80.0,10.0,70.0,75.0
+B005OGKYVK,Far Cry 3,Video Games,15,4.4,80.0,6.7,86.7,73.3
+B01N4V7SNP,Razer RZ03-00800100-R3U1 DeathStalker Expert - Backlit Ergonomic Fully Programmable Membrane Black Gaming Keyboard - 10 Key Rollover,Computers,15,3.93,80.0,20.0,66.7,80.0
+B076FCM9B5,"HIDEit Mounts 4P Pro Bundle, Wall Mounts for PS4 Pro and Controller, Steel Wall Mounts for Playstation 4 Pro and One Rubber Dipped Controller Mount",Cell Phones & Accessories,15,4.33,80.0,13.3,86.7,93.3
+B07QQ8N7LL,STAR WARS Jedi Fallen Order - [Xbox One Digital Code],Video Games,15,4.53,80.0,6.7,80.0,100.0
+B07V5LZMTH,"[4 Pack] Screen Protector Tempered Glass for Nintendo Switch Lite, iVoler Transparent HD,High Definition,Clear Anti-Scratch with Anti-Fingerprint Bubble-Free Fit Switch Lite 2019",All Electronics,15,4.73,80.0,20.0,93.3,86.7
+B087NMZMQ7,Just Dance 2020 - Nintendo Switch Standard Edition,Video Games,15,4.27,80.0,13.3,73.3,86.7
+B099M4RSVG,Nintendo Switch – OLED Model Splatoon 3 Special Edition,Video Games,15,4.47,80.0,13.3,86.7,93.3
+B0BG8Z51S5,"Avantree L171 - Wired Earbuds with Lightning Connector [MFi Certified], Microphone & Volume Controls, Over-Ear Hooks for Sports, Headphones Compatible with iPhone14 13 12 11, Support All iOS Systems",All Electronics,15,4.27,80.0,20.0,80.0,86.7
+B002XVUT3M,Wii Nunchuk Controller - White,Video Games,10,4.4,80.0,10.0,80.0,100.0
+B0032C9V7G,Dead Space 2 Collector's Edition - PC,Video Games,10,4.7,80.0,10.0,100.0,80.0
+B003O6EATE,PlayStation Vita - Wifi,Video Games,10,4.2,80.0,10.0,80.0,70.0
+B005OGL766,LEGO Harry Potter: Years 5-7 - Playstation 3,Video Games,10,4.7,80.0,20.0,90.0,70.0
+B006JKARN0,PS3 Gran Turismo 5 XL Edition,Video Games,10,4.3,80.0,0.0,80.0,90.0
+B00897Z27C,ZombiU - Nintendo Wii U,Video Games,10,4.2,80.0,0.0,80.0,90.0
+B00PV515DU,Sony PlayStation Vita WiFi,Video Games,10,4.5,80.0,0.0,90.0,80.0
+B01A73ZIL0,"Xbox One Gaming Headset,SADES Stereo PC PS4 Gaming Headset with Microphone Noise Cancelling Over Ear Gaming Headphones with Soft Memory Earmuffs for Xbox one / PS4/ Laptop/Mac(Camouflage)",Computers,10,4.5,80.0,20.0,90.0,90.0
+B01GY35UK6,Resident Evil 7: Biohazard - PlayStation 4,Video Games,10,4.3,80.0,10.0,80.0,80.0
+B01M4NISMM,"Amazon Basics Xbox One Wired Controller - 9.8 Foot Cable, Black, Version 1",Video Games,10,4.7,80.0,10.0,90.0,80.0
+B01MDUYKDO,Razer Kraken USB Over Ear PC and Music Headset - Black,Computers,10,4.2,80.0,20.0,80.0,100.0
+B01MG6DORB,NBA 2K17 Standard Edition - PlayStation 4,Video Games,10,3.9,80.0,20.0,70.0,90.0
+B075XLGQ4V,Metroid: Samus Returns - Nintendo 3DS,Video Games,10,4.5,80.0,10.0,90.0,80.0
+B07C91PXNM,"ivoler Carrying Case for Nintendo Switch and NEW Switch OLED Model(2021), Portable Hard Shell Pouch Carrying Travel Game Bag for Switch Accessories Holds 10 Game Cartridge",All Electronics,10,4.5,80.0,20.0,90.0,90.0
+B07WLT1C27,Marvel's Spider-Man: Game of The Year Edition - PlayStation 4,Video Games,10,4.8,80.0,10.0,90.0,90.0
+B07WS18ZS3,Batman: Arkham Knight - Playstation 4,Video Games,10,4.0,80.0,0.0,60.0,70.0
+B083PZY4XJ,"(4 Pack) Joycon Joystick Replacement, 3D Analog Thumb Sticks for Nintendo Switch Joy Con Controller with Full Repair Set [New Version]",Computers,10,4.5,80.0,20.0,90.0,90.0
+B08VS3Z468,"VEGCOO Wireless Gaming Mouse, C8 Silent Click Wireless Rechargeable Mouse with Colorful LED Lights and 2400/1600/1000 DPI for Laptop and Computer (C9 Pink)……",All Electronics,10,3.9,80.0,20.0,70.0,90.0
+B0995GXFV4,Life is Strange - Complete Season - Steam PC [Online Game Code],Video Games,10,4.4,80.0,10.0,80.0,100.0
+B09JDDBX8R,Forza Horizon 4: Ultimate Edition – Xbox One,Video Games,10,4.6,80.0,10.0,90.0,90.0
+B01N3ASPNV,amFilm Tempered Glass Screen Protector for Nintendo Switch 2017 (2-Pack),All Electronics,154,4.59,79.9,12.3,89.0,85.7
+B00DB2BI8M,Rocksmith 2014 Edition - PC/Mac (Cable Included),Video Games,53,4.38,79.2,11.3,81.1,90.6
+B07YBXFDYN,Skyrim VR - PlayStation 4,Video Games,81,4.46,79.0,11.1,85.2,86.4
+B01I14IASK,KIMILAR Replacement Wired Infrared IR Ray Motion Sensor Bar Compatible with Wii and Wii U Console (Silver/Black),Computers,19,4.68,78.9,10.5,89.5,89.5
+B087NNZZM8,Animal Crossing: New Horizons (Physical) & Happy Home Paradise [Digital Code] - Nintendo Switch,Video Games,19,4.32,78.9,15.8,78.9,89.5
+B004RMK57U,Playstation Plus: 3 Month Membership [Digital Code],Video Games,33,4.48,78.8,12.1,87.9,84.8
+B07TC8J6HK,Jeecoo V20U USB Pro Gaming Headset for PC - 7.1 Surround Sound Headphones with Noise Cancelling Microphone- Memory Foam Ear Pads RGB Lights for Laptops,Cell Phones & Accessories,42,4.38,78.6,2.4,83.3,83.3
+B0BLTV2BKZ,"PC Gaming Headset Headphone Hook Holder Hanger Mount,Headphones Stand with Adjustable & Rotating Arm Clamp,Under Desk Design,Universal Fit,Built in Cable Clip Organizer EURPMASK Pink",Amazon Home,28,4.64,78.6,10.7,89.3,89.3
+B003O6JKLC,Xbox 360 4GB Console,Video Games,14,4.36,78.6,14.3,78.6,92.9
+B0053BCO00,Mario Kart 7,Video Games,14,4.64,78.6,7.1,92.9,85.7
+B00KVP76G0,DualShock 4 - White,Video Games,14,4.36,78.6,21.4,78.6,78.6
+B00L59D9HG,Nintendo 3DS Compatible with 3DS / 3DS XL / 2DS AC Adapter,Video Games,14,4.86,78.6,0.0,100.0,78.6
+B01M26YUKO,Logitech G203 Prodigy RGB Wired Gaming Mouse – Black,Computers,14,4.07,78.6,14.3,78.6,92.9
+B01MTJA6EV,Microsoft Xbox One S 500GB Console - Tom Clancy's Ghost Recon Wildlands Gold Edition bundle,Unknown,14,4.57,78.6,7.1,92.9,85.7
+B07HYY6HNW,"Logitech G PRO Hero Wired Gaming Mouse, 12000 DPI, RGB Lightning, Ultra Lightweight, 6 Programmable Buttons, On-Board Memory, Compatible with PC/Mac - Black",Computers,14,4.07,78.6,14.3,78.6,92.9
+B07YBXJ5FK,The Evil Within - Xbox One,Video Games,14,4.36,78.6,7.1,78.6,92.9
+B07CRX5X9T,"UtechSmart Venus Pro RGB Wireless MMO Gaming Mouse, 16,000 DPI Optical Sensor, 2.4 GHz Transmission Technology, Ergonomic Design, 16M Chroma RGB Lighting, 16 programmable Buttons, Up to 70 Hours",Computers,65,4.63,78.5,13.8,92.3,84.6
+B004RMK5QG,PlayStation Plus: 12 Month Membership [Digital Code],Video Games,74,4.53,78.4,16.2,89.2,87.8
+B017V6YVDC,PlayStation Plus: 1 Month Membership [Digital Code],Video Games,23,4.22,78.3,21.7,82.6,87.0
+B08N7PX4WX,PowerA Joy Con Comfort Grips for Nintendo Switch - Black,Video Games,23,4.3,78.3,13.0,78.3,95.7
+B00HBUOVIO,"Ferrero Rocher, Premium Gourmet Milk Chocolate Hazelnut, Individually Wrapped Candy for Gifting, 7.9 oz, 18 Count",Grocery,55,4.58,78.2,10.9,89.1,81.8
+B001F8188Y,Nintendo DS Lite Cobalt / Black,Video Games,32,4.34,78.1,12.5,84.4,84.4
+B073SC6V1D,"havit Gaming Keyboard and Mouse Combo, Backlit Computer keyboards and RGB Gaming Mouse, Gaming Accessories 104 Keys PC Gaming Keyboard with DPI 4800 Mouse for Gamer, Black",Computers,32,4.38,78.1,6.3,84.4,78.1
+B000N5Z2L4,Xbox Live Gold: 1 Month Membership [Digital Code],Video Games,113,4.35,77.9,17.7,83.2,88.5
+B08D3XL1KF,Super Smash Bros. Ultimate: Challenger Pack 2 - [Switch Digital Code],Video Games,36,4.67,77.8,11.1,91.7,83.3
+B014SIVGAW,HWAYO 500GB 500G Internal HDD Hard Drive Disk Disc for Xbox360 Xbox 360 S Slim Games,Computers,18,3.72,77.8,22.2,66.7,77.8
+B01LYNI9Y5,"Smatree Controller Battery Compatible for Xbox Series X|S/Xbox One/Xbox One S/Xbox One X/Xbox One Elite Wireless Controller, 2 Pack Rechargeable Batteries with Charger",All Electronics,18,4.28,77.8,16.7,77.8,94.4
+B01N9RG3XS,Orzly Glass Screen Protectors Compatible with Nintendo Switch - Premium Tempered Glass Screen Protector Twin Pack [2X Screen Guards - 0.24mm] for 6.2 Inch Tablet Screen on Nintendo Switch Console,All Electronics,18,4.22,77.8,16.7,77.8,72.2
+B09GM4283G,PlayStation PULSE 3D Wireless Headset – Midnight Black,Video Games,18,4.0,77.8,22.2,77.8,100.0
+B09ZJF8VR1,Razer Viper Mini Ultralight Gaming Mouse: Fastest Gaming Switches - 8500 DPI Optical Sensor - Chroma RGB Underglow Lighting - 6 Programmable Buttons - Drag-Free Cord - Classic Black,Computers,18,4.89,77.8,5.6,100.0,77.8
+B07624RBWB,Nintendo Switch Pro Controller,Video Games,53,4.4,77.4,18.9,86.8,88.7
+B0029LJIFG,Xbox LIVE 12 Month Gold Membership Card,Video Games,26,4.31,76.9,19.2,80.8,88.5
+B07DPK5NPD,Super Smash Bros. - Nintendo Wii U,Video Games,26,4.58,76.9,19.2,88.5,84.6
+B002I0J51U,Playstation 3 Move Motion Controller,Video Games,13,4.31,76.9,23.1,84.6,92.3
+B00D5SZ04K,Need for Speed Rivals,Video Games,13,4.0,76.9,23.1,76.9,84.6
+B01N7WNV5M,HyperX Cloud Revolver S - Gaming Headset with Dolby 7.1 Surround Sound - Steel Frame - Signature Memory Foam - Premium Leatherette - Detachable Noise-Cancellation Microphone,Computers,13,4.38,76.9,0.0,76.9,76.9
+B074MYLP9C,"FASTSNAIL HDMI Type C Hub Adapter for Switch, HDMI Converter Dock Cable for Switch (Black)",Computers,13,4.23,76.9,15.4,76.9,84.6
+B09GVZ1D3V,"PS4 Controller Charger Charging Cable 10ft 2 Pack Nylon Braided Extra Long Micro USB 2.0 High Speed Data Sync Cord Compatible for Playstaion 4, PS4 Slim/Pro, Xbox One S/X Controller, Blue",Industrial & Scientific,13,4.0,76.9,23.1,76.9,100.0
+B0B7B7WQY7,KLIM Chroma Wireless Gaming Keyboard RGB New 2023 Version - Long-Lasting Rechargeable Battery - Quick and Quiet Typing - Water Resistant Backlit Wireless Keyboard for PC PS5 PS4 Xbox One Mac - Black,Computers,13,4.15,76.9,23.1,76.9,92.3
+B00YJJ0OQS,Xbox One Wireless Controller [Without Bluetooth],Video Games,17,4.0,76.5,11.8,70.6,82.4
+B073K6WMJ9,Splatoon 2: Starter Pack - Nintendo Switch,Video Games,17,4.41,76.5,17.6,88.2,88.2
+B089QYP649,Turtle Beach Stealth 600 Wireless Surround Sound Gaming Headset for PlayStation 5 and PlayStation 4,Video Games,38,4.11,76.3,15.8,78.9,94.7
+B002BSA298,Kinect Sensor with Kinect Adventures!,Video Games,21,4.57,76.2,4.8,85.7,81.0
+B007CM0K86,The Last of Us - PlayStation 3,Video Games,21,4.67,76.2,14.3,90.5,85.7
+B01M6C7YE8,Red Dead Redemption 2 Playstation 4,Video Games,21,4.19,76.2,23.8,76.2,95.2
+B07HVHT7XF,"PORTHOLIC Wii to HDMI Converter 1080P with 5ft High Speed HDMI Cable Wii2 HDMI Adapter Output Video&Audio with 3.5mm Jack Audio, Support All Wii Display 720P, NTSC, Compatible with Full HD Devic",All Electronics,21,4.24,76.2,19.0,81.0,90.5
+B07L3SXCL9,Jeecoo V20 Stereo Gaming Headset for PS4 PS5 Xbox One - Over Ear Headphones with Noise Cancelling Microphone - LED Light Soft Earmuffs for PC Laptops Mobiles,All Electronics,21,4.1,76.2,9.5,81.0,85.7
+B07PZ8NZSZ,PlayStation 4 Pro 1TB Console,All Electronics,46,4.11,76.1,17.4,73.9,89.1
+B00E4MQODC,"Logitech G602 Lag-Free Wireless Gaming Mouse – 11 Programmable Buttons, Upto 2500 DPI",Computers,50,4.34,76.0,16.0,84.0,88.0
+B071H7XCPV,"Redragon M901 Gaming Mouse RGB Backlit MMO 19 Macro Programmable Buttons with Weight Tuning Set, 12400 DPI for Windows PC Computer (Wired, Black)",Computers,25,4.4,76.0,16.0,84.0,92.0
+B0BL65X86R,$25 PlayStation Store Gift Card [Digital Code],Video Games,33,4.52,75.8,24.2,87.9,87.9
+B019WRM1IA,Microsoft Xbox 360 Wired Controller for Windows & Xbox 360 Console,All Electronics,49,4.37,75.5,20.4,85.7,87.8
+B0BN942894,"BENGOO Stereo Pro Gaming Headset for PS4, PC, Xbox One Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light, Bass Surround, Soft Memory Earmuffs for Laptop Mac Wii Accessory Kits",Computers,132,4.31,75.0,15.2,83.3,86.4
+B0754LGLFP,"Redragon K552 Mechanical Gaming Keyboard Rainbow LED Backlit Wired with Anti-Dust Proof Switches for Windows PC (White, 87 Keys Blue Switches)",Computers,48,4.27,75.0,16.7,79.2,87.5
+B012DFI02O,"VersionTECH. G2000 Gaming Headset for PS5 PS4 Xbox One Controller,Bass Surround Noise Cancelling Mic, Over Ear Headphones with LED Lights for Mac Laptop Xbox Series X S Nintendo Switch NES PC Games",Video Games,40,4.15,75.0,12.5,77.5,87.5
+B0771ZXXV6,Nintendo Joy-Con (R) - Neon Red - Nintendo Switch,Video Games,36,4.08,75.0,22.2,77.8,88.9
+B00IRHE892,"Logitech G502 Proteus Core Tunable Gaming Mouse, 12,000 DPI On-The-Fly DPI Shifting, Personalized Weight and Balance Tuning with (5) 3.6g Weights, 11 Programmable Buttons, Fully Customizable Surface",Computers,32,4.22,75.0,15.6,78.1,81.3
+B01GY35GIM,Titanfall 2 - SteelBook Edition - PlayStation 4,Video Games,24,4.17,75.0,12.5,79.2,83.3
+B00K5I323O,"Madden NFL 15: 2,200 Points - Xbox One Digital Code",Video Games,20,4.1,75.0,15.0,80.0,85.0
+B00KSQHX1K,Halo: The Master Chief Collection,Video Games,20,3.9,75.0,15.0,70.0,75.0
+B07J27TFCD,"Redragon M711 Cobra Gaming Mouse with 16.8 Million RGB Color Backlit, 10,000 DPI Adjustable, Comfortable Grip, 7 Programmable Buttons",Computers,16,4.63,75.0,12.5,93.8,81.3
+B001D8Q5MA,Grand Theft Auto IV [Online Game Code],Video Games,12,4.17,75.0,8.3,75.0,91.7
+B005OGPTSS,Red Dead Redemption: Game of the Year Edition - Xbox One and Xbox 360,Video Games,12,4.75,75.0,16.7,91.7,83.3
+B0084A97Y8,Disney Epic Mickey 2: The Power of Two - Playstation 3,Video Games,12,4.17,75.0,25.0,75.0,75.0
+B08FLPWSFW,"Glorious Gaming Mouse - Model O Minus 58 g Superlight Honeycomb Mouse, Glossy White Mouse, USB Gaming Mouse",Computers,12,3.83,75.0,25.0,66.7,91.7
+B0BDWVBWC9,PowerA Charging Stand for PlayStation 4,Video Games,47,4.26,74.5,21.3,80.9,83.0
+B00BGA9WK2,PlayStation 4 500GB Console [Old Model][Discontinued],Video Games,80,4.17,73.8,20.0,77.5,87.5
+B0BN5DC36N,"Seagate Horizon Forbidden West Limited Edition Game Drive for PlayStation Consoles 2TB External Hard Drive - USB 3.2 Gen1, Officially-Licensed (STLM2000100)",Computers,30,4.47,73.3,20.0,83.3,80.0
+B001G60JHQ,"Retro-Bit Retro Duo 2 in 1 Console System - for Original NES/SNES, & Super Nintendo Games - Black/Red",Video Games,15,4.0,73.3,20.0,73.3,100.0
+B002BSH3KE,Crysis 2 - PC,Video Games,15,4.67,73.3,13.3,93.3,73.3
+B0062UOBW0,Skylanders Spyro's Adventure: Voodood,Video Games,15,4.53,73.3,13.3,86.7,80.0
+B07BM92KT4,zelotes 5500 DPI 7 Button LED Optical USB Wired Gaming Mouse Mice for Pro Gamer,Computers,15,4.93,73.3,20.0,100.0,73.3
+B087SLTR2B,NBA 2K20 Legend Edition Xbox One,Video Games,15,4.13,73.3,26.7,73.3,86.7
+B01GOK34SO,"PDP Gaming Multipurpose Talon Media Remote Control: Xbox One, Blu-Ray, Streaming Media",Video Games,22,4.0,72.7,18.2,68.2,86.4
+B001EYUXIK,Star Wars Battlefront II - Xbox,Video Games,11,4.09,72.7,27.3,81.8,90.9
+B003O6FV8S,Just Dance 2 - Nintendo Wii,Video Games,11,4.55,72.7,18.2,81.8,81.8
+B00DJRLAZ0,The Crew Ultimate Edition - PS4 [Digital Code],Video Games,11,4.27,72.7,18.2,81.8,90.9
+B00LZVNWIA,Logitech G402 Hyperion Fury FPS Gaming Mouse,Computers,11,4.36,72.7,27.3,81.8,90.9
+B00O9JLAX4,PlayStation 4 Black Friday Bundle - Grand Theft Auto V and The Last of Us Remastered,Video Games,11,4.45,72.7,9.1,81.8,90.9
+B016PWS77E,Splatoon,Video Games,11,4.18,72.7,9.1,81.8,81.8
+B01D63UU52,"CORSAIR M65 Pro RGB - FPS Gaming Mouse - 12,000 DPI Optical Sensor - Adjustable DPI Sniper Button - Tunable Weights -  Black (CH-9300011-NA)",Computers,11,4.64,72.7,9.1,90.9,81.8
+B01KZUL1CA,Turtle Beach - Ear Force Stealth 400 Fully Wireless Gaming Headset - PS4 (Discontinued by Manufacturer),Video Games,11,4.0,72.7,9.1,72.7,90.9
+B07CMKDB2K,tomtoc Nintendo Switch Slim Carry Case,Video Games,11,4.45,72.7,9.1,81.8,72.7
+B07CTHLS2L,"PS4 Controller Charger Dock Station, 1.8 Hrs Fast Charging PS4 Charging Station, PS4 Charging Station with LED Indicator Charging Chip, Dual USB PS4 Charger Dock for PS4/PS4 Slim/PS4 Pro Charger",All Electronics,11,4.73,72.7,0.0,100.0,72.7
+B0891DDRYN,Corsair K95 RGB Platinum Mechanical Gaming Keyboard -  6x Programmable Macro Keys - USB Passthrough & Media Controls - Tactile & Quiet - Cherry MX Brown – RGB LED Backlit,Computers,11,4.36,72.7,18.2,72.7,81.8
+B08F4C6HCD,Legend of Zelda Link's Awakening - Nintendo Switch [Digital Code],Video Games,11,4.09,72.7,27.3,72.7,90.9
+B08N7RDR45,"PowerA Nintendo Switch Car Charger,USB - Nintendo Switch",Video Games,11,3.91,72.7,27.3,72.7,90.9
+B09C1PZPND,Pokémon Legends: Arceus - Nintendo Switch,Video Games,11,4.45,72.7,9.1,81.8,90.9
+B0BRXYDXP7,"Satisfye - ZenGrip Pro Gen 3 OLED, a Switch Grip Compatible with Nintendo Switch - Comfortable & Ergonomic Grip, Joy Con & Switch Control. #1 Switch Accessories Designed for Gamers (Blue)",Video Games,11,4.09,72.7,18.2,72.7,100.0
+B0C1K1R6HK,Xbox Series X,Video Games,11,3.64,72.7,18.2,63.6,81.8
+B0C3C23NH9,"SENZER SG500 Surround Sound Pro Gaming Headset with Noise Cancelling Microphone - Detachable Memory Foam Ear Pads - Portable Foldable Headphones for PC, PS4, PS5, Xbox One, Switch - Black",Computers,11,4.09,72.7,18.2,72.7,90.9
+B0079V2XFS,Madden NFL 13 - PlayStation Vita,Video Games,18,3.89,72.2,22.2,72.2,94.4
+B0154OZU4M,Nyko Intercooler Stand - Cooling Attachment with Short USB Power Cord for Xbox One,Video Games,18,4.17,72.2,22.2,77.8,88.9
+B07G4YYZ1M,"Razer DeathAdder Chroma - Multi-Color Ergonomic Gaming Mouse - 10,000 DPI Sensor - Comfortable Grip - World's Most Popular Gaming Mouse",Computers,18,4.17,72.2,22.2,83.3,88.9
+B07RBZMPZ2,"BlueFire Stereo Gaming Headset for Playstation 4 PS4 PS5, Over-Ear Headphones with Mic and LED Lights for Xbox One, PC, Laptop (Red)",Computers,18,4.28,72.2,22.2,83.3,83.3
+B00BALK9CM,Mini Wireless Keyboard with Touchpad for Smart TV Projector Compatible with Android iOS Windows,Computers,25,4.24,72.0,12.0,84.0,72.0
+B097B6SH5G,SteelSeries Arctis 7 - Lossless Wireless Gaming Headset with DTS Headphone: X v2.0 Surround - for PC and PlayStation 4 - Black,Computers,25,4.2,72.0,16.0,80.0,84.0
+B003E1UNSG,StarCraft II: Heart of the Swarm Expansion Pack,Video Games,32,4.13,71.9,21.9,78.1,81.3
+B01MG8P418,Steam Controller,Video Games,21,4.33,71.4,19.0,76.2,66.7
+B0088TN7BO,LEGO Lord of the Rings - Nintendo 3DS,Video Games,14,4.07,71.4,7.1,71.4,85.7
+B08N7QBVBJ,PowerA Charging Stand for Xbox One - White,Video Games,14,4.36,71.4,28.6,78.6,78.6
+B0BWD2QV4N,"AMVR Upgraded Extension Grips for Beat Saber Handles, Compatible with Oculus/Meta Quest 2 Accessories,Also Suitable for Supernatural Training,Fruit Ninja,Blade & Sorcery and VR Game",Cell Phones & Accessories,14,4.07,71.4,14.3,78.6,92.9
+B00DBDPOZ4,Xbox One Play and Charge Kit,Video Games,31,3.84,71.0,22.6,71.0,90.3
+B0015AARJI,PlayStation 3 Dualshock 3 Wireless Controller (Black),Video Games,34,3.97,70.6,17.6,73.5,91.2
+B07Z4YKVR8,"EKSA E1000 Gaming Headset, Computer Headphones with Noise Canceling Mic & RGB Light, 7.1 Surround Sound, Compatible with PC, PS4 PS5 Console, Laptop (Red)",All Electronics,17,4.0,70.6,23.5,70.6,88.2
+B00VULDPCI,Call of Duty: Black Ops III - Standard Edition - PlayStation 4,Video Games,27,3.85,70.4,22.2,74.1,85.2
+B0BZP27995,"BENGOO V-4 Gaming Headset for Xbox One, PS4, PC, Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light Bass Surround Soft Memory Earmuffs for PS2 Mac Sega Dreamcast PS5 Games",Computers,37,4.14,70.3,16.2,78.4,78.4
+B00HRW8PRO,The LEGO Movie Videogame - Nintendo 3DS Standard Edition,Video Games,20,4.35,70.0,0.0,80.0,80.0
+B001ELJE1A,Grand Theft Auto: San Andreas - Xbox 360 Digital Code,Video Games,10,4.5,70.0,20.0,90.0,80.0
+B002I0J4VQ,PlayStation 3 Slim 120GB (Old Model),Video Games,10,3.7,70.0,30.0,60.0,70.0
+B0055VHUAM,The Sims 3: Pets - Playstation 3,Software,10,3.8,70.0,20.0,70.0,80.0
+B007VYW5K6,Crysis 3 [Instant Access],Video Games,10,3.9,70.0,20.0,80.0,90.0
+B00BAQXJMO,Madden NFL 25 - Xbox One,Video Games,10,3.8,70.0,30.0,70.0,100.0
+B00DTWEOZ8,Titanfall [Online Game Code],Video Games,10,4.3,70.0,30.0,80.0,80.0
+B00K32USMU,Call of Duty: Advanced Warfare Digital Pro Edition - PS4 [Digital Code],Video Games,10,4.6,70.0,10.0,90.0,70.0
+B00L4SD1F8,Witcher 3: Wild Hunt Complete Edition - PC,Video Games,10,4.0,70.0,30.0,70.0,90.0
+B00VUCEXNW,LEGO Dimensions Starter Pack - Xbox One,Video Games,10,3.9,70.0,30.0,70.0,100.0
+B00W50P4HW,dreamGEAR Comfort Grip for your Old Nintendo 3DS XL,Video Games,10,4.5,70.0,10.0,80.0,80.0
+B00Z9TIGCG,Tom Clancy's Ghost Recon Wildlands - Season Pass | PC Code - Ubisoft Connect,Video Games,10,4.5,70.0,20.0,90.0,80.0
+B01EJ9DMQQ,Kootek Vertical Stand for PS4 Slim / Regular Playstation 4 Cooling Fan Controller Charging Station with Game Storage and Dualshock Charger ( Not for PS4 Pro ),Computers,10,4.4,70.0,20.0,90.0,80.0
+B01GY3628A,Turtle Beach - Ear Force P11 Amplified Stereo Gaming Headset - PS3 (Discontinued by Manufacturer),Video Games,10,3.8,70.0,20.0,70.0,100.0
+B01KUAMCWI,Logitech G403 Wireless Gaming Mouse with High Performance Gaming Sensor,Computers,10,4.2,70.0,20.0,70.0,70.0
+B071S7Z6L5,"PS4 Controller Charger Charging Station, YCCSKY Dual Shock PS4 Chargers Controller PlayStation 4 Twin Charge Docking Station Stand Wireless PS4 Charger for Sony PS4/PS4 Pro/PS4 Slim Controller, Black",All Electronics,10,4.2,70.0,20.0,80.0,90.0
+B07LCT76PQ,"MAYFLASH Magic NS Wireless Bluetooth Controller USB Adapter for Switch, Steam Deck, macOS, Windows, Raspberry Pi, Compatible with Xbox Series S/X,PS5 Controller and More",Computers,10,3.9,70.0,20.0,70.0,90.0
+B08MBG5254,Tomee AC Adapter for New Nintendo 3DS/ New Nintendo 2DS XL/ New Nintendo 3DS/ New Nintendo 3DS XL/ Nintendo 2DS/ Nintendo 3DS XL/ Nintendo 3DS/ Nintendo DSi XL/ Nintendo Dsi,Video Games,10,4.3,70.0,20.0,80.0,90.0
+B09GPJGC5Q,"Gaming Headset for PS5,PS4,Xbox,PC, Kids Headphones with Mic for School Supplies,Pink Headphones Wired for Girls,Headset for Nintendo Switch,Pink Headset (Pink)",All Electronics,10,3.8,70.0,10.0,60.0,80.0
+B09WS2QZXT,Tom Clancy's Rainbow Six Siege - PlayStation 4,Video Games,10,4.1,70.0,30.0,90.0,80.0
+B003DZ165W,"Kindle Lighted Leather Cover, Black (Fits Kindle Keyboard)",Amazon Devices,33,4.3,69.7,15.2,81.8,78.8
+B00KIWEMIG,Far Cry 4 - PS3 [Digital Code],Video Games,33,4.09,69.7,18.2,78.8,84.8
+B008FHL56S,SPOGENN Matbip Compatible,Computers,23,3.74,69.6,30.4,65.2,91.3
+B00DJRLDMU,Tom Clancy’s The Division Underground - Xbox One Digital Code,Video Games,23,3.78,69.6,21.7,69.6,95.7
+B07WSHTJ48,"Redragon S101 Gaming Keyboard, M601 Mouse, RGB Backlit Gaming Keyboard, Programmable Backlit Gaming Mouse, Value Combo Set [New Version]",Computers,49,4.06,69.4,20.4,79.6,83.7
+B003NSLGW2,Grip-iT Analog Stick Covers,Video Games,26,3.96,69.2,11.5,65.4,76.9
+B094YHB1QK,PlayStation DualSense Wireless Controller – Galactic Purple,Video Games,26,4.31,69.2,15.4,80.8,80.8
+B000IMWK2G,Wii Remote Controller,Video Games,13,4.54,69.2,23.1,84.6,69.2
+B000M17AVO,Sony PlayStation 3 Blu-ray Disc Remote,Video Games,13,4.31,69.2,15.4,92.3,76.9
+B0046A8IRC,Dragon Age Origins: Ultimate Edition - Playstation 3,Video Games,13,4.38,69.2,23.1,84.6,76.9
+B00CMQTUSS,Xbox One Wireless Controller (Without 3.5 millimeter headset jack),Video Games,13,4.46,69.2,7.7,84.6,69.2
+B00L3LQ1FI,Super Smash Bros. GameCube Adapter for Wii U,Video Games,13,4.23,69.2,30.8,76.9,84.6
+B00ZD99YXC,Disney Infinity 3.0 Edition: Pixar's The Good Dinosaur Power Disc Pack,Video Games,13,4.46,69.2,15.4,76.9,92.3
+B01GRY9VIY,FIFA 17 - PlayStation 3,Video Games,13,4.38,69.2,23.1,84.6,84.6
+B072MQNKYV,Monster Hunter: World - Deluxe Edition - Xbox One [Digital Code],Video Games,13,4.23,69.2,23.1,76.9,84.6
+B075X47CG7,"Skywin PS4 Controller Charger Station - Showcase, Cool, Charge, and Display your PSVR Accessories - Compatible with Playstation. PS4 Cooling station, PS4 Vertical Stand, PS4 Fan, PS4 Charging Station",Video Games,13,3.85,69.2,30.8,69.2,76.9
+B07CVPR2J6,"Das Keyboard MacTigr Wired Mechanical Keyboard for Mac – Cherry MX Red Switches & PBT Keycaps for Seamless Typing Experience – Sleek Low Profile - 100% Metal – 2-Port USB C Hub – Volume Knob, NKRO",Computers,13,4.38,69.2,30.8,84.6,84.6
+B07H5K95DW,"BlueFire Kids Headphones for Online School, Children, Teens, Boys, Girls, 3.5mm Stereo Over-Ear Gaming Headphone with Microphone and Volume Control Compatible with PS4, PS5, New Xbox One（Blue）",All Electronics,13,3.85,69.2,15.4,76.9,84.6
+B09DFCB66S,PlayStation 5 Console CFI-1102A,Video Games,13,4.23,69.2,23.1,76.9,69.2
+B09K3ZY6BR,"SteelSeries Sensei 310 Gaming Mouse - 12,000 CPI TrueMove3 Optical Sensor - Ambidextrous Design - Split-Trigger Buttons - RGB Lighting, Black",Computers,13,4.0,69.2,15.4,69.2,92.3
+B0B9MJK753,"8Bitdo Wireless USB Adapter 2 for Switch/Switch OLED, Windows, Mac & Raspberry Pi Compatible with Xbox Series X & S Controller, Xbox One Bluetooth Controller, Switch Pro and PS5 Controller",Computers,13,4.23,69.2,15.4,76.9,76.9
+B077GG9D5D,DualShock 4 Wireless Controller for PlayStation 4 - Jet Black,Video Games,144,3.97,68.8,25.7,72.2,90.3
+B087NMYQYG,Super Mario Party - Nintendo Switch,Video Games,19,4.05,68.4,21.1,78.9,89.5
+B0C23C5YP5,Corsair K55 RGB PRO XT - Dynamic Per-Key RGB Backlighting - Six Macro Keys with Elgato Stream Deck Software Integration-IP42 Dust and Spill-Resistant-Detachable Palm Rest-Media and Volume Keys-Black,Computers,19,4.0,68.4,26.3,73.7,84.2
+B0009VXBAQ,Wii,Video Games,28,4.07,67.9,28.6,82.1,78.6
+B07YBWT3PK,Fallout 4 - Xbox One,Video Games,80,4.14,67.5,21.3,77.5,82.5
+B00BHRD4BM,Destiny Expansion II: House of Wolves - PS4 [Digital Code],Video Games,40,4.05,67.5,17.5,75.0,82.5
+B00HVBPRUO,Gold Wireless Stereo Headset - PlayStation 4,Video Games,40,3.98,67.5,22.5,67.5,80.0
+B01N4JYY1H,Xbox Wireless Controller – Red,Video Games,24,3.79,66.7,33.3,62.5,91.7
+B08FC5L3RG,PlayStation 5 Console,Video Games,24,3.83,66.7,25.0,70.8,83.3
+B079FPFV3X,"OIVO PS4 Stand Cooling Fan Station for Playstation 4/PS4 Slim/PS4 Pro, PS4 Pro Vertical Stand with Dual Controller EXT Port Charger Dock Station and 12 Game Slots",All Electronics,21,3.71,66.7,28.6,66.7,90.5
+B07CRC2X77,"VersionTECH. G2000 Gaming Headset, Bass Surround Gaming Headphones with Noise Cancelling Mic, LED Lights, Soft Memory Earmuffs for PS5/ PS4/ Xbox One Controller/Laptop/PC/Mac/Nintendo NES Games-Blue",All Electronics,21,3.67,66.7,23.8,61.9,76.2
+B0030H8I4K,Batman: Arkham Origins Collectible Case for PS3,Video Games,18,4.22,66.7,11.1,77.8,88.9
+B00N3OELPU,"Logitech G910 Orion Spark RGB Mechanical Gaming Keyboard – 9 Programmable Buttons, Dedicated Media Controls",Computers,18,4.0,66.7,22.2,77.8,83.3
+B08DHTZNNF,"Razer Mamba Elite Wired Gaming Mouse: 16,000 DPI Optical Sensor - Chroma RGB Lighting - 9 Programmable Buttons - Mechanical Switches",Computers,18,3.83,66.7,27.8,72.2,94.4
+B016XBGWAQ,Steam Link,Video Games,15,3.67,66.7,33.3,66.7,86.7
+B01MT1DCIV,"Fosmon [Set of 4] Analog Stick Joystick Controller Performance Thumb Grips for PS4 | PS3 | Xbox ONE, ONE X, ONE S, 360 | Wii U (Black & Red)",Video Games,15,3.6,66.7,26.7,60.0,73.3
+B01N1P0KFI,"Amazon Basics Dual Charging Station for Xbox One, Xbox One Standard, And Xbox One Elite Controllers - Black",All Electronics,15,4.0,66.7,20.0,80.0,86.7
+B08G4FDHT7,"Redragon K556 RGB LED Backlit Wired Mechanical Gaming Keyboard, 104 Keys Hot-Swap Mechanical Keyboard w/Aluminum Base, Upgraded Socket and Noise Absorbing Foams, Quiet Linear Red Switch",Computers,15,4.27,66.7,13.3,80.0,86.7
+B0BM4BMMJP,"Tatybo Gaming Headset for PS4 PS5 Xbox One Switch PC with Noise Canceling Mic, Deep Bass Stereo Sound (Black White)",All Electronics,15,3.8,66.7,20.0,66.7,93.3
+B00267S2A0,Call of Duty: Modern Warfare 2 - Playstation 3,Video Games,12,4.33,66.7,16.7,75.0,75.0
+B003QCJLRM,Zumba Fitness - Nintendo Wii,Video Games,12,3.75,66.7,8.3,66.7,83.3
+B00Z9TL6KA,Madden NFL 16 - Xbox One,Video Games,12,3.83,66.7,16.7,66.7,91.7
+B01GY35T4S,Xbox One S 1TB Console - NBA 2K20 Bundle - [DISCONTINUED],All Electronics,12,3.92,66.7,33.3,66.7,91.7
+B07213YKCX,Pokémon Ultra Sun and Ultra Moon Steelbook Dual Pack - Nintendo 3DS,Video Games,12,4.25,66.7,8.3,83.3,75.0
+B09W5193NT,Oculus Rift + Touch Virtual Reality System,Video Games,12,3.75,66.7,25.0,66.7,91.7
+B0BPMJ8TRV,"PowerA Spectra Infinity Enhanced Wired Controller for Xbox Series X|S - White (Amazon Exclusive), gamepad, video gaming controller, works with Xbox One and Windows 10/11, officially licensed",Video Games,12,3.67,66.7,33.3,50.0,50.0
+B00DU2CHE2,Stereo Gaming Headphone Headset with Microphone (Blue),All Electronics,41,3.68,65.9,24.4,63.4,80.5
+B0C3QFBBH5,"HyperX Cloud Stinger – Gaming Headset, Lightweight, Comfortable Memory Foam, Swivel to Mute Noise-Cancellation Mic, Works on PC, PS4, PS5, Xbox One/Series X|S, Nintendo Switch and Mobile ,Black",Computers,41,3.76,65.9,22.0,63.4,85.4
+B00HTK1NCS,Redragon M601 RGB Gaming Mouse Backlit Wired Ergonomic 7 Button Programmable Mouse Centrophorus with Macro Recording & Weight Tuning Set 7200 DPI for Windows PC (Black),Computers,55,4.05,65.5,16.4,74.5,76.4
+B06Y2LGTW3,"Power Supply Brick for Xbox One, Xbox Power Supply Brick Cord AC Adapter Power Supply Charger Replacement for Xbox One",Computers,49,4.02,65.3,24.5,69.4,87.8
+B00AAQRNQ8,Compatible Cell Phone Adapter Replacement for Phone 6/7/8.,Cell Phones & Accessories,20,4.2,65.0,20.0,85.0,80.0
+B00AAS888S,"Razer DeathAdder Expert - Optical Esports Ergonomic Professional-Grade Gaming Mouse - 6,400 Adjustible DPI",Computers,20,4.45,65.0,15.0,85.0,75.0
+B00BGAA3S2,PlayStation 4 Camera (Old Model),Video Games,17,3.88,64.7,23.5,64.7,88.2
+B00E8CF268,Razer Naga 2014 - Ergonomic MMO Gaming Mouse,Computers,17,3.88,64.7,17.6,70.6,82.4
+B07DML9W41,NBA 2K19 - Nintendo Switch,Video Games,17,4.0,64.7,29.4,70.6,88.2
+B0C89J78ZW,"Logitech G Pro Wireless Gaming Mouse & G PRO Mechanical Gaming Keyboard, Ultra Portable Tenkeyless Design, Detachable Micro USB Cable, 16.8 Million Color LIGHTSYNC RGB Backlit Keys",Computers,17,3.53,64.7,23.5,64.7,82.4
+B002JTX5RK,Battlefield: Bad Company 2 - PS3 [Digital Code],Video Games,14,3.93,64.3,7.1,71.4,85.7
+B01A0VQOCQ,Sades 3.5mm Surround Stereo Wired PC Gaming Headset Over Ear Headphones with Mic Revolution Volume Control Noise Canceling LED Light (Black/Red),All Electronics,14,4.14,64.3,21.4,78.6,78.6
+B01L1Y0TCC,Xb1 System 500Gb Battlefield,Video Games,14,4.14,64.3,14.3,78.6,64.3
+B07MRJ12HX,2-Pack Replacement Joystick Analog Thumb Stick Repair Kit for Nintendo Switch/Switch OLED Model/Switch Lite Joy-Con Controller - Drift Fix Tools Y1.5 / +1.5 Screwdriver/Pry Tools,Computers,14,3.86,64.3,21.4,64.3,71.4
+B07NZFD1T7,Datel Action Replay Power Saves Pro - Nintendo 3Ds,Video Games,14,3.64,64.3,35.7,64.3,100.0
+B01LXC1QL0,"Razer DeathAdder Elite Gaming Mouse: 16,000 DPI Optical Sensor - Chroma RGB Lighting - 7 Programmable Buttons - Mechanical Switches - Rubber Side Grips - Matte Black",Computers,25,3.64,64.0,28.0,56.0,76.0
+B002JTX7JQ,Mass Effect 2 [Download],Video Games,11,4.55,63.6,18.2,90.9,72.7
+B0036EWMIK,Castlevania: Lords of Shadow,Video Games,11,3.91,63.6,9.1,72.7,72.7
+B003DSAT0C,INSTEN Remote Controller Charger + 2 Battery Packs For Wii Game,Video Games,11,4.0,63.6,27.3,72.7,90.9
+B0052YDD3A,The Sims 3: Generations [Online Game Code],Video Games,11,3.82,63.6,18.2,72.7,81.8
+B00DDIRERI,Kingdom Hearts III - PlayStation 4,Video Games,11,4.09,63.6,18.2,72.7,72.7
+B00YM7AKLG,FIFA 16 - Standard Edition - PlayStation 4,Video Games,11,4.36,63.6,27.3,81.8,63.6
+B00ZKZYKMO,Plants vs. Zombies Garden Warfare 2 - Xbox One,Video Games,11,3.73,63.6,18.2,72.7,81.8
+B0136JPA56,Xbox One Chatpad + Chat Headset (plugs directly into Chatpad),Video Games,11,3.73,63.6,27.3,63.6,90.9
+B07796MBJ7,"Logitech G613 LIGHTSPEED Wireless Mechanical Gaming Keyboard, Multihost 2.4 GHz + Blutooth Connectivity - Black",Computers,11,4.18,63.6,27.3,72.7,72.7
+B01GW3H3U8,Xbox Wireless Controller – White,Video Games,41,3.88,63.4,31.7,68.3,87.8
+B00IAVDOS6,Xbox One Stereo Headset Adapter,Video Games,19,3.58,63.2,26.3,57.9,84.2
+B00J5C3Z10,Assassin's Creed Unity Limited Edition - PlayStation 4,Video Games,19,3.63,63.2,31.6,63.2,89.5
+B00Z9TMH1W,Madden NFL 17 - Deluxe Edition - Xbox One,Video Games,19,4.47,63.2,21.1,84.2,68.4
+B00EP2WNKY,The Sims 4 - Movie Hangout Stuff - Origin PC [Online Game Code],Video Games,43,4.05,62.8,23.3,76.7,81.4
+B0C5K4M7WJ,"HyperX Cloud II Wireless - Gaming Headset for PC, PS4/PS5, Nintendo Switch, Long Lasting Battery Up to 30 Hours, 7.1 Surround Sound, Memory Foam, Detachable Noise Cancelling Microphone, Mic Monitoring",Computers,51,3.71,62.7,25.5,68.6,88.2
+B000FQ9R4E,Super Smash Bros. Brawl,Video Games,16,3.56,62.5,18.8,56.3,81.3
+B008CZN458,Resident Evil 6 Anthology - Playstation 3,Video Games,16,4.38,62.5,12.5,87.5,68.8
+B00Y8CQCXA,"Kootek Vertical Stand with Cooling Fan for PS4 Slim / Regular PlayStation 4, Controllers Charging Station with Dual Charger Ports and USB HUB for Console Dualshock 4 Controller ( Not for PS4 Pro )",All Electronics,16,3.94,62.5,31.3,75.0,81.3
+B0728PHCD8,"NUBWO N2 Gaming Headset for Xbox One PS4 Playstation 4, Headphones Computer PC Mic Stereo Fortnite Gamer Microphone for Skype Xbox one s Xbox 1 x Nintendo Switch Games",Cell Phones & Accessories,16,3.63,62.5,25.0,62.5,87.5
+B0C2C85JKV,"NUBWO Gaming headsets PS4 N7 Stereo Xbox one Headset Wired PC Gaming Headphones with Noise Canceling Mic , Over Ear Gaming Headphones for PC/MAC/PS4/PS5/Switch/Xbox one (Adapter Not Included)",All Electronics,29,3.83,62.1,24.1,69.0,93.1
+B00E5UHSX8,Turtle Beach - Ear Force X12 Amplified Stereo Gaming Headset - Xbox 360,Video Games,21,3.81,61.9,23.8,66.7,90.5
+B00DDILSBG,Final Fantasy XV Deluxe Edition - PlayStation 4,Video Games,26,3.65,61.5,26.9,65.4,76.9
+B001ELJE5Q,Wii Guitar Hero World Tour Band Kit,Video Games,13,4.38,61.5,7.7,76.9,76.9
+B001EYUQTQ,Call of Duty 4: Modern Warfare - Game of the Year Edition,Unknown,13,4.08,61.5,30.8,76.9,76.9
+B003ZSN600,Xbox 360 Wired Controller - Black,Computers,13,4.54,61.5,23.1,84.6,76.9
+B00GIK3YAO,PowerA MOGA Hero Power - Electronic Games,Video Games,13,4.08,61.5,7.7,76.9,76.9
+B00NOD0OTW,Bloodborne Collectors Edition - PlayStation 4,Video Games,13,4.31,61.5,23.1,84.6,69.2
+B013VO5MR2,"AceShot Thumb Grips (8pc) for Xbox One (Series X, S) & Steamdeck by Foamy Lizard – Sweat Free 100% Silicone Precision Raised Antislip Rubber Analog Stick Grips for Xbox One Controller (8 Grips) Black",Video Games,13,4.08,61.5,15.4,76.9,69.2
+B015XC3B46,"Zacro PS4 Vertical Stand Cooling Fan Dual Charging Station for Playstation 4 Dual Shock 4 Controllers, with Dual USB HUB Charger Ports -Dual Use with Cooling and Charging System(Not for PS4 Slim/Pro)",All Electronics,13,4.31,61.5,23.1,84.6,76.9
+B01LW6SOV9,PlayStation Platinum Wireless Headset - PlayStation 4,Video Games,13,4.15,61.5,15.4,69.2,92.3
+B0B8YYDT95,"NUBWO G06 Wireless Gaming Headset for PS5, PS4, PC Games, 2.4GHz Ultra-Low Latency, Bluetooth 5.0, Soft Memory Earmuffs (Pink)",All Electronics,13,4.0,61.5,7.7,76.9,76.9
+B09XM8MMYD,"Meta Quest 2 — Advanced All-In-One Virtual Reality Headset — 128 GB with Carrying Case, White",Video Games,44,3.8,61.4,36.4,63.6,84.1
+B07K3KHFSY,Nyko Charge Base - 2 Port Controller Charger with 2 USB Charge Adapters for PlayStation 3,Video Games,49,3.76,61.2,24.5,65.3,73.5
+B0BVVTQ5JP,"Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC / Mac, Black",Computers,36,3.75,61.1,30.6,63.9,80.6
+B001ELJDU2,Nintendo Game Boy Advance SP - Graphite,Video Games,18,3.89,61.1,16.7,66.7,83.3
+B004G5YI3U,Mass Effect 3 Digital Deluxe Version [Download],Video Games,18,3.72,61.1,16.7,61.1,72.2
+B086QW1WS6,"NUBWO U3 3.5mm Gaming Headset for PC, PS4, PS5, Laptop, Xbox One, Mac, iPad, Switch/ Computer Game , Over Ear Flexible Microphone Volume Control with Mic",All Electronics,18,3.83,61.1,33.3,66.7,88.9
+B07VHHPJBV,"Redragon M602 Griffin RGB Gaming Mouse, RGB Spectrum Backlit Ergonomic Mouse with 7 Programmable Backlight Modes up to 7200 DPI for Windows PC Gamers (White, Wired)",Computers,28,4.0,60.7,28.6,71.4,78.6
+B0BN2FNKLM,Thrustmaster T.Flight HOTAS 4 Stick for PlayStation & PC with Top Gun: Maverick,Video Games,28,3.61,60.7,28.6,57.1,78.6
+B0C4KN63KM,"NPET K10V1 Wired Computer Keyboard, Plug and Play, Full-Size with 12 Multimedia Keys, Spill-Resistant, 6.2ft USB Cable, Compatible with PC, Laptop (Black)",Computers,25,4.0,60.0,12.0,76.0,80.0
+B00KO4ULZ6,LEGO Batman 3: Beyond Gotham - PlayStation 3,Video Games,15,4.47,60.0,6.7,80.0,80.0
+B09KL8P6DP,"VOYEE PC Controller, Wired Controller Compatible with Microsoft Xbox 360 & Slim/PC Windows 10/8/7, with Upgraded Joystick, Double Shock | Enhanced (Pink)",All Electronics,15,3.73,60.0,33.3,66.7,93.3
+B002SUTB28,EA Sports Active - Nintendo Wii,Video Games,10,4.3,60.0,20.0,80.0,80.0
+B00JA81WQE,Buyee 128MB Memory Card Game Memory Card,Video Games,10,3.8,60.0,40.0,70.0,90.0
+B00KR2C0RC,WWE 2K15 - PS3 [Digital Code],Video Games,10,3.6,60.0,20.0,60.0,90.0
+B00MAM0ALA,Assassin's Creed Rogue- Xbox 360,Video Games,10,4.5,60.0,10.0,80.0,70.0
+B00MP7SFJE,World of Warcraft: Warlords of Draenor Expansion - PC/Mac,Video Games,10,3.6,60.0,20.0,60.0,90.0
+B0118YZG0A,Just Cause 3 Collector's Edition - PlayStation 4,Video Games,10,3.7,60.0,20.0,70.0,80.0
+B01798WKTY,"Razer RZ01-01610100-R3U1 Naga Chroma - Ergonomic RGB MMO Gaming Mouse- 12 Programmable Thumb Buttons & 16,000 Adjustible DPI",Computers,10,3.4,60.0,40.0,50.0,80.0
+B0748MTZ1C,CORSAIR Void PRO RGB Wireless Gaming Headset - Dolby 7.1 Surround Sound Headphones for PC - Discord Certified - 50mm Drivers - White,Unknown,10,3.6,60.0,20.0,60.0,80.0
+B07BF2422D,PowerA Wired Controller For Xbox One - White,Video Games,10,4.2,60.0,0.0,80.0,60.0
+B09B35J159,Razer Basilisk Ultimate HyperSpeed Wireless Gaming Mouse w/Charging Dock: Fastest Gaming Mouse Switch - 20K DPI Optical Sensor - Chroma RGB - 11 Programmable Buttons - 100 Hr Battery - Classic Black,Computers,10,4.6,60.0,10.0,90.0,70.0
+B09JSFLW8V,"GameSir T4 Pro Wireless Game Controller for Windows 7 8 10 PC/iPhone/Android/Switch, Dual Shock USB Bluetooth Mobile Phone Gamepad Joystick for Apple Arcade MFi Games, Semi-Transparent LED Backlight",Computers,10,3.9,60.0,30.0,60.0,90.0
+B0C3QFVJ3M,"Razer BlackShark V2 X Gaming Headset: 7.1 Surround Sound - 50mm Drivers - Memory Foam Cushion - for PC, PS4, PS5, Switch, Xbox One, Xbox Series X|S, Mobile - 3.5mm Audio Jack – Quartz Pink",Computers,10,4.0,60.0,30.0,80.0,70.0
+B01LPZM7VI,Xbox Wireless Controller – Black,Video Games,37,4.0,59.5,29.7,73.0,83.8
+B00Z9TM72Q,Call of Duty: Infinite Warfare - PS4 Legacy Edition,Video Games,27,3.63,59.3,37.0,63.0,88.9
+B00CJ9OTNE,Call of Duty Ghosts - PS3 [Digital Code],Video Games,51,3.8,58.8,23.5,64.7,74.5
+B00OAYHIRA,ZD-V+ USB Wired Gaming Controller Gamepad For PC/Laptop Computer(Windows XP/7/8/10/11) & PS3 & Android & Steam - [Black],Computers,17,3.59,58.8,35.3,52.9,58.8
+B07YBX6T95,Fallout: New Vegas - Xbox 360 Ultimate Edition,Video Games,29,4.17,58.6,20.7,75.9,69.0
+B004HD55VK,Tomb Raider,Video Games,12,4.08,58.3,33.3,83.3,75.0
+B00RH6R7C4,"Logitech G300s Optical Ambidextrous Gaming Mouse – 9 Programmable Buttons, Onboard Memory",Computers,12,3.75,58.3,33.3,66.7,75.0
+B00Z9TIM3Y,For Honor Complete Edition - Xbox One [Digital Code],Video Games,12,4.0,58.3,33.3,75.0,75.0
+B07V4X2WQ7,"ENVEL Gaming Headset for Nintendo Switch, PS4, Xbox One, PS5 Controller, Laptop, Mac, Noise Cancelling PC Headset with Mic, Stereo Surround Sound, Cool LED Light,Comfort Earmuff Black",Computers,12,3.58,58.3,33.3,50.0,66.7
+B081SL51F6,PlayStation Gold Wireless Headset - PlayStation 4,Video Games,19,3.68,57.9,21.1,68.4,78.9
+B00K0NV5J2,Dragon Age: Inquisition - Jaws Of Hakkon (Cross Buy) - PS4 [Digital Code],Video Games,28,3.61,57.1,35.7,60.7,85.7
+B003A71XKQ,KMD Xbox 360 Live Gaming Headset with Mic,Video Games,14,3.79,57.1,28.6,71.4,85.7
+B0069EB9CY,Xbox 360 Rechargeable Battery 2-Pack,Video Games,14,3.86,57.1,35.7,64.3,78.6
+B072C3VM5F,Far Cry 5 Gold Edition - Xbox One [Digital Code],Video Games,14,3.93,57.1,21.4,71.4,85.7
+B07V6MHQVP,Razer Naga X Wired MMO Gaming Mouse: 18K DPI Optical Sensor - 2nd-gen Optical Switch - Chroma RGB Lighting - 16 Programmable Buttons - 85g - Classic Black,Computers,14,3.57,57.1,35.7,64.3,92.9
+B0B96RSG2Y,Razer Ornata V3 Gaming Keyboard: Low-Profile Keys - Mecha-Membrane Switches - UV-Coated Keycaps - Backlit Media Keys - 10-Zone RGB Lighting - Spill-Resistant - Magnetic Wrist Wrest - Classic Black,Computers,14,4.29,57.1,7.1,85.7,64.3
+B07ZHZBYCJ,Razer Tartarus Pro Gaming Keypad: Analog-Optical Key Switches - 32 Programmable Keys - Customizable Chroma RGB Lighting - Programmable Macros - Variable Key Press Pressure Sensitivity - Mercury White,Computers,23,3.57,56.5,26.1,60.9,82.6
+B01CDCG4KM,"Fosmon Dual 2 MAX Charger with 2x 2200mAh Rechargeable Battery Pack Compatible with Xbox Series X/S(2020), Xbox One/One X/One S Elite Controllers, High Speed Charging Docking Station Kit - Black",Computers,32,3.56,56.3,31.3,59.4,84.4
+B0079V4GK8,Assassin's Creed III,Video Games,16,3.69,56.3,25.0,56.3,87.5
+B00HX1UXD8,Star Wars: The Old Republic 60-Day Pre-paid Time Card - PC,Video Games,16,4.31,56.3,25.0,81.3,68.8
+B0863VBLKL,"ZIUMIER Gaming Headset PS4 Headset, Xbox One Headset with Noise Canceling Mic and RGB Light, PC Headset with Stereo Surround Sound, Over-Ear Headphones for PC, PS4, PS5, Xbox One, Laptop",All Electronics,16,3.5,56.3,37.5,62.5,87.5
+B09K6ZWJBC,"Pink Gaming Headset for Nintendo Switch, Xbox One, PS4,PS5, Bass Surround and Noise Cancelling with Flexible Mic, 3.5mm Wired Adjustable Over-Ear Headphones for Laptop PC iPad Smartphones",Computers,16,3.56,56.3,43.8,62.5,87.5
+B0BJKR3LJJ,"EasySMX Wireless 2.4g Gaming Controller Support for PC (Windows XP/7/8/8.1/10) and PS3, Android, Vista, TV Box Portable Gaming Joystick Gamepad-Green",Computers,16,4.0,56.3,12.5,68.8,75.0
+B0C6DH316S,"Logitech G PRO X Wireless Lightspeed Gaming Headset - Shroud Edition, Black",Computers,16,3.75,56.3,37.5,68.8,68.8
+B09C4DPKGF,"Razer Kraken Tournament Edition THX 7.1 Surround Sound Gaming Headset: Retractable Noise Cancelling Mic - USB DAC -  For PC, PS4, PS5, Nintendo Switch, Xbox One, Xbox Series X & S, Mobile – Black",Computers,25,3.72,56.0,32.0,68.0,88.0
+B00503E8S2,Call of Duty: Modern Warfare 3 - Xbox 360,Video Games,20,3.25,55.0,35.0,55.0,75.0
+B00Z9TMBOU,Battlefield 1 - Xbox One,Video Games,20,4.4,55.0,25.0,85.0,70.0
+B01H482N6E,Nintendo Pokemon Go Plus,Video Games,20,3.95,55.0,35.0,70.0,85.0
+B09M6YFK7Y,Razer Basilisk X HyperSpeed Wireless Gaming Mouse + Mouse Grip Tape Bundle,Computers,20,3.65,55.0,30.0,65.0,75.0
+B001E8WQKY,Resident Evil 5 - Xbox 360,Video Games,11,4.09,54.5,9.1,81.8,45.5
+B00269QLI8,Call of Duty Modern Warfare 2 - Xbox 360,Video Games,11,4.73,54.5,27.3,90.9,54.5
+B002BSH82M,Left 4 Dead 2 - PC,Video Games,11,4.18,54.5,9.1,72.7,81.8
+B003JVCA9Q,Call of Duty: Black Ops - Playstation 3,Video Games,11,3.73,54.5,27.3,72.7,45.5
+B00Z9TIB4Y,South Park: The Fractured But Whole SteelBook Gold Edition (Includes Season Pass subscription) - PlayStation 4,Video Games,11,3.73,54.5,36.4,63.6,81.8
+B01CJNHEEK,CM Storm QuickFire Rapid-i Fully Backlit Mechanical Gaming Keyboard with ActivLite Technology and Per-Key Lighting (Brown Switch Model),Computers,11,3.73,54.5,27.3,63.6,81.8
+B01IFJEWTM,Nintendo NES Classic Mini EU Console,Video Games,11,3.73,54.5,36.4,63.6,90.9
+B07B7WT5P6,"16-bit Entertainment System(NOT SNES MINI, NO GAMES INCLUDED) Compatible with Super Nintendo Games",Video Games,11,3.45,54.5,27.3,54.5,90.9
+B07DHY6YLM,"Enhanced Wired Controller for Xbox One - Black, gamepad, wired video game controller, gaming controller",Video Games,11,3.36,54.5,36.4,63.6,90.9
+B07PRVS98X,"EKSA E900 Pro USB Gaming Headset for PC - Computer Headset with Detachable Noise Cancelling Mic, 7.1 Surround Sound, 50MM Driver - Headphones with Microphone for PS4/PS5, Xbox One, Laptop, Office",All Electronics,11,3.82,54.5,36.4,63.6,72.7
+B07SZ52PQM,"Gaming Headset for Xbox one Ps4, Gamer Headphone with Mic, Over ear Bass Stereo, Noise Reduction Microphone, LED Lights and Volume Control for PC, Nintendo Switch/3DS, Laptop, Mac, Pad, Smartphone",All Electronics,11,3.64,54.5,18.2,45.5,54.5
+B07VRCWMV7,"Etpark PS-4 Wireless Controller, Professional PS-4 Gamepad,Touch Panel Joypad with Dual Vibration, Instantly Timely Manner to Share Joystick",All Electronics,11,3.64,54.5,36.4,72.7,81.8
+B0B1PB5L93,Razer Viper Ultimate Lightweight Wireless Gaming Mouse & RGB Charging Dock: Hyperspeed Wireless Technology - 20K DPI Optical Sensor - 74g Lightweight - 70 Hr Battery - Mercury White,Computers,11,3.55,54.5,36.4,54.5,81.8
+B0BS9YCBYY,"HyperX Cloud Flight - Wireless Gaming Headset, Long Lasting Battery up to 30 Hours, Detachable Noise Cancelling Microphone, Red LED Light, Comfortable Memory Foam, Works with PC, PS4 & PS5",Computers,11,3.73,54.5,18.2,63.6,81.8
+B0C2CYCX75,"EasySMX 2.4G Wireless Controller for PS3, PC Gamepads with Vibration Fire Button Range up to 10m Support Windows PC, PS3, Android, Vista, TV Box Portable Gaming Joystick Handle (camouflage yellow)",Computers,11,3.45,54.5,36.4,54.5,100.0
+B003VUO6H4,Sony Playstation 3 160GB System,Video Games,24,3.67,54.2,33.3,70.8,83.3
+B072K63ZPD,Call of Duty: Black Ops 4 Standard Edition - Xbox One [Digital Code],Video Games,13,3.54,53.8,30.8,61.5,84.6
+B078RJ1KZ6,"ARKARTECH Gaming Headset with Mic for Xbox One PS4 PS5 PC Switch Tablet, with Stereo Surround Sound & LED Light Noise Cancelling Over Ear Headphones",Computers,13,4.08,53.8,38.5,69.2,53.8
+B0BVKYMWLQ,"Screen Protector for Steam Deck 7 Inch 2022 Release, 9H Tempered Glass Film Easy Installation/Anti-Scratch/HD Clear for Steam Deck New Version 3 Pack",Cell Phones & Accessories,13,3.85,53.8,23.1,69.2,69.2
+B00BLDJ1T6,DISNEY INFINITY Starter Pack 3DS,Video Games,15,3.07,53.3,26.7,53.3,80.0
+B018CYKIHU,"Logitech G Driving Force Shifter – Compatible with G29, G920 & G923 Racing Wheels for-PlayStation 5, Playstation 4, Xbox-Series X|S, Xbox-One, and-PC",Computers,15,3.33,53.3,26.7,53.3,80.0
+B07FSYMKPD,"HyperX Cloud Pro Gaming Headset - Silver - with in-Line Audio Control for PS4, Xbox One, and PC (HX-HSCL-SR/NA)",Computers,15,4.0,53.3,46.7,73.3,66.7
+B07YBX5FVF,The Elder Scrolls IV: Oblivion - Xbox 360 5th Anniversary Edition,Video Games,15,3.8,53.3,26.7,66.7,66.7
+B09T2QP4WV,"Redragon M908 Impact RGB LED MMO Mouse with Side Buttons Optical Wired Gaming Mouse with 12,400DPI, High Precision, 20 Programmable Mouse Buttons",Computers,15,3.4,53.3,33.3,60.0,86.7
+B0CBRT4BWW,"Charger for Nintendo Switch and Switch Lite and Switch OLED, Support Dock Mode AC Power Supply Adapter, 5FT Type C Charger Cable for Switch. Output 15V2.6A",All Electronics,15,3.27,53.3,46.7,53.3,93.3
+B00CES8EFY,NBA 2K14 - Xbox 360,Video Games,21,3.9,52.4,33.3,76.2,76.2
+B01MXE0FKC,"Logitech G533 Wireless Gaming Headset – DTS 7.1 Surround Sound – Pro-G Audio Drivers, Black",Computers,21,3.43,52.4,28.6,52.4,76.2
+B00CQ35C1Q,Logitech 981-000536 G430 7.1 Gaming Headset with Mic,Computers,51,3.49,51.0,35.3,54.9,76.5
+B0BLFYF8K2,"Logitech G600 MMO Gaming Mouse, RGB Backlit, 20 Programmable Buttons, Black",Computers,36,3.78,50.0,25.0,58.3,75.0
+B09C4DLF4P,"Razer Kraken X Ultralight Gaming Headset: 7.1 Surround Sound - Lightweight Aluminum Frame - Bendable Cardioid Microphone - for PC, PS4, PS5, Switch, Xbox One, Xbox Series X|S, Mobile - Black/Blue",Computers,24,3.17,50.0,33.3,41.7,70.8
+B07WNV98X5,Dockable Case for Nintendo Switch - Mumba TPU Grip Protective Cover Case Compatible with Nintendo Switch Console and Joy-Con Controller (Purple),Cell Phones & Accessories,20,4.05,50.0,5.0,80.0,60.0
+B08TG138F1,PowerA Wired Controller for Nintendo Switch: GameCube Style - Black,Video Games,20,3.7,50.0,25.0,60.0,60.0
+B0C3KJJ6XS,"Razer Nari Ultimate Wireless 7.1 Surround Sound Gaming Headset: THX Audio & Haptic Feedback - Auto-Adjust Headband - Chroma RGB - Retractable Mic - For PC, PS4, PS5 - Black",Computers,20,3.6,50.0,35.0,65.0,70.0
+B0C5K2TWD8,"HyperX Cloud Alpha – Gaming Headset - TimTheTatMan Edition - for PC, PS5, and Xbox, Dual Chamber Drivers, Memory Foam, Soft Leatherette, Durable Aluminum Frame, Detachable Noise-Cancelling Microphone",Computers,16,3.31,50.0,43.8,50.0,87.5
+B0080CAOYM,Call of Duty: Black Ops 2 [Download],Video Games,14,3.71,50.0,35.7,64.3,71.4
+B0BTM9LJM4,HORI Nintendo Switch Split Pad Pro (Pokemon Legends: Arceus) Ergonomic Controller for Handheld Mode - Officially Licensed By Nintendo & Pokemon Company International,Video Games,14,3.71,50.0,28.6,57.1,71.4
+B0C3BNJFBV,"Logitech G815 LIGHTSYNC RGB Mechanical Gaming Keyboard with Low Profile GL Tactile switch, 5 programmable G-keys,USB Passthrough, dedicated media control - Linear, Black",Computers,14,3.21,50.0,28.6,50.0,71.4
+B00267RVX4,Assassin's Creed 2 Deluxe Edition [Download],Video Games,12,3.5,50.0,41.7,66.7,83.3
+B009C98NPY,Logitech G710+ Mechanical Gaming Keyboard with Tactile High-Speed Keys - Black,Computers,12,4.08,50.0,16.7,83.3,50.0
+B07WS6ZFTG,"Microsoft Xbox One X 1Tb Console With Wireless Controller: Enhanced, Hdr, Native 4K, Ultra Hd (Discontinued)",Video Games,12,3.33,50.0,41.7,50.0,75.0
+B001O5CCQK,Logitech G35 7.1-Channel Surround Sound Gaming Headset,All Electronics,10,3.4,50.0,20.0,40.0,80.0
+B002JTX72S,PlayStation 3 Dualshock 3 Wireless Controller (Urban Camouflage) - Playstation 3,Video Games,10,4.0,50.0,30.0,80.0,70.0
+B003OAE79S,Xbox 360 Headset,Video Games,10,3.5,50.0,50.0,60.0,80.0
+B003TLNHCK,Gran Turismo 5 Collector's Edition,Video Games,10,4.4,50.0,20.0,70.0,70.0
+B008ATWGDM,Skylanders Giants Starter Pack - Nintendo Wii U,Video Games,10,4.2,50.0,20.0,80.0,70.0
+B00TEDK8FQ,Ortz PS4 Vertical Stand with Cooling Fan [Keeps System Cool] Playstation Controller Charging Station with Dual Charger [NOT for PRO or Slim],Video Games,10,3.1,50.0,30.0,50.0,80.0
+B07X6KDQ98,"Marseille mClassic Plug-and-Play Video Game Console 1440p/4K Upscaler - Upgrade Your Graphics Card in Real Time with No Lag for Nintendo Switch, PlayStation, Xbox, Wii, GameCube, Dreamcast and more!",Toys & Games,10,3.3,50.0,40.0,50.0,100.0
+B08MBMV3VG,Generic AC Power Adapter Charger for Nintendo 3DS/DSi/XL,Video Games,10,3.9,50.0,30.0,60.0,70.0
+B00C1TTF86,Battlefield 4 - Playstation 3,Video Games,61,3.59,49.2,34.4,63.9,75.4
+B07V8YSBFG,"Roblox Digital Gift Code for 1,200 Robux [Redeem Worldwide - Includes Exclusive Virtual Item] [Online Game Code]",Video Games,62,3.42,48.4,48.4,56.5,80.6
+B07YBX7Y3P,Fallout 76 - Xbox One Tricentennial Edition,Video Games,29,3.45,48.3,41.4,58.6,79.3
+B071HVWD55,"UHURU Wireless Gaming Mouse Up to 10000 DPI, Rechargeable USB Wireless Mouse with 6 Buttons 7 Changeable LED Color Ergonomic Programmable MMO RPG for PC Laptop, Compatible with Windows Mac",Computers,23,3.52,47.8,47.8,65.2,73.9
+B08NRVRF3J,Collective Minds Strike Pack F.P.S. Dominator Controller Adapter with MODS & Paddles for PS4,Video Games,21,3.52,47.6,47.6,57.1,76.2
+B00DTY9B0O,Titanfall Collector's Edition,Video Games,19,3.79,47.4,21.1,68.4,63.2
+B0C7BN9G35,"PDP Universal PS4/PS5 Media Remote Control, Playstation Gaming Remote Compatible with Sony Playstation 4 and Playstation 5, Bluetooth Detection for up to 4 Devices, TV Power/Input/Volume Controls",Video Games,19,3.63,47.4,31.6,68.4,78.9
+B00ZDNNRB8,Xbox Elite Wireless Controller,Video Games,36,3.39,47.2,44.4,58.3,77.8
+B09WL5QLJF,"Astro A10 Gaming Headset Gen 2 Wired Headset - Over-Ear Gaming Headphones with flip-to-Mute Microphone, 32 mm Drivers, for Xbox Series X|S| One, Playstation 5/4, Nintendo Switch, PC, Mac -Lilac",Video Games,17,3.18,47.1,41.2,58.8,76.5
+B00XZQ58AI,NBA 2K16 - PlayStation 3,Video Games,13,3.31,46.2,46.2,53.8,92.3
+B0B36T478W,"ASTRO Gaming A50 Wireless Headset + Base Station Gen 4 - Compatible With PS5, PS4, PC, Mac - Black/Silver",Video Games,22,3.32,45.5,45.5,50.0,72.7
+B007MJSZDQ,2 Pack Xbox 360 Rechargeable Battery + Charging Station Black,Video Games,11,2.82,45.5,54.5,45.5,100.0
+B00Z8EBXSQ,Xbox Wireless Controller – Sport White Special Edition,Video Games,11,2.91,45.5,54.5,45.5,100.0
+B01F7S5NJW,Turtle Beach - Ear Force X32 Wireless Gaming Headset - Amplified Stereo - Xbox 360 (Discontinued by Manufacturer),Video Games,11,3.64,45.5,27.3,63.6,63.6
+B0748N6796,CORSAIR Void PRO RGB Wireless Gaming Headset - Dolby 7.1 Surround Sound Headphones for PC - Discord Certified - 50mm Drivers - Carbon,Computers,11,3.45,45.5,27.3,54.5,63.6
+B08CW2M37L,"Far Cry 6: Season Pass – Xbox Series X|S, Xbox One [Digital Code]",Video Games,11,3.55,45.5,18.2,63.6,63.6
+B09TQBJCJ6,Pokémon Scarlet - Nintendo Switch,Video Games,11,3.0,45.5,54.5,45.5,81.8
+B094Y1G4F4,"PowerA Enhanced - Seafoam Fade, Gamepad, Wired Video Game Controller, Gaming Controller, Xbox Series X|S, Xbox One (Only at Amazon)",Video Games,40,3.02,45.0,47.5,47.5,82.5
+B09V5R5LSZ,Halo 5: Guardians 9 Gold REQ Packs – Xbox One [Digital Code],Video Games,27,3.19,44.4,37.0,48.1,81.5
+B0BLW27Z5W,CORSAIR K70 RGB MK.2 RAPIDFIRE Low Profile - Backlit RGB LED - USB Passthrough & Media Controls - Fastest & Linear Low Profile - Cherry MX Speed,Computers,18,3.94,44.4,22.2,72.2,66.7
+B004I1JTEK,Dragon Age 2 - Bioware Signature Edition - PC,Video Games,16,3.25,43.8,25.0,43.8,81.3
+B008U4QPJI,Final Fantasy XIV: A Realm Reborn - PC,Video Games,16,3.69,43.8,31.3,62.5,62.5
+B0BYVN9ZK2,"Razer Kraken Gaming Headset: Lightweight Aluminum Frame - Retractable Noise Isolating Microphone - for PC, PS4, PS5, Switch, Xbox One, Xbox Series X & S, Mobile - 3.5 mm Headphone Jack - Black/Blue",Computers,35,3.6,42.9,37.1,54.3,71.4
+B005HN5LKY,Gen AC Adapter Power Supply Cord for Xbox 360 Slim,Unknown,21,3.0,42.9,33.3,52.4,66.7
+B07PTMKYS7,Oculus Rift S PC-Powered VR Gaming Headset,Video Games,21,3.0,42.9,42.9,47.6,81.0
+B0BKQPPD4T,"Logitech G435 LIGHTSPEED and Bluetooth Wireless Gaming Headset - Lightweight over-ear headphones, built-in mics, 18h battery, compatible with Dolby Atmos, PC, PS4, PS5, Nintendo Switch, Mobile - Blue",Computers,14,3.5,42.9,42.9,57.1,85.7
+B09Y97GZG5,SteelSeries Stratus+ Bluetooth Gaming controller for Android & Windows - Mobile - Hall Effect Sensors - Clickable L3/R3,Video Games,19,3.32,42.1,47.4,52.6,73.7
+B0BRF6PX4Z,Ferilinso [3+3 Pack] for iPhone 14 Pro & iPhone 14 Pro Max Camera Lens Protector Accessories Camera Cover Titanium Alloy-Space Metal Protection Mounting Base CASE Friendly (Silver/Sparkle Silver),Cell Phones & Accessories,19,3.26,42.1,36.8,52.6,73.7
+B00ZQB28XK,No Man's Sky - PlayStation 4,Video Games,24,2.83,41.7,41.7,29.2,70.8
+B07GXDQ95L,SteelSeries Arctis 7 Lag-Free Wireless Gaming Headset - Black (Discontinued by Manufacturer),Computers,24,3.42,41.7,25.0,50.0,62.5
+B01N6QKT7H,Nintendo Joy-Con (L/R) - Gray,Video Games,12,3.42,41.7,50.0,58.3,83.3
+B0BTFX4STP,"HyperX Cloud Stinger S – Gaming Headset, for PC, Virtual 7.1 Surround Sound, Lightweight, Memory Foam, Soft Leatherette, Durable Steel Sliders, Swivel-to-Mute Noise-Cancelling Microphone, Black",Computers,12,3.5,41.7,25.0,58.3,75.0
+B004LLHFAW,Battlefield 3 - Playstation 3,Video Games,29,3.86,41.4,31.0,65.5,72.4
+B001G78TRW,The Sims 3 Plus Supernatural,Unknown,27,3.3,40.7,33.3,51.9,77.8
+B003NHRDPW,Fable III Limited Collector's Edition -Xbox 360,Video Games,15,2.93,40.0,26.7,40.0,60.0
+B00O2GW3EO,McAfee Total Protection 2015 | 3 Devices | PC Key Card [Old Version],Software,15,3.6,40.0,46.7,60.0,73.3
+B073XKXQW4,BASSTOP Portable DIY Replacement Housing Shell Case for Right Left Switch Joy-Con Controller Without Electronics (White+White),Computers,15,3.0,40.0,33.3,46.7,66.7
+B09BXPRNY9,"Turtle Beach Recon Chat Xbox Headset for Xbox Series X, Xbox Series S, Xbox One, PS5, PS4, PlayStation, Nintendo Switch, Mobile, & PC with 3.5mm – Glasses Friendly, High-Sensitivity Mic - Black",Video Games,15,3.13,40.0,40.0,46.7,60.0
+B08F5TZW2J,Quest 2 Elite Strap for Enhanced Support and Comfort in VR,Video Games,10,2.2,40.0,60.0,30.0,90.0
+B08N6NMGNB,"Thrustmaster T300 RS - Gran Turismo Edition Racing Wheel (PS5,PS4,PC)",Video Games,10,3.1,40.0,30.0,50.0,80.0
+B08LT6PT1X,Xbox Elite Wireless Controller Series 2 – Black,Video Games,61,2.84,39.3,52.5,37.7,80.3
+B00G2EVF3E,Plants vs. Zombies Garden Warfare - PC Instant Access,Video Games,23,3.04,39.1,43.5,47.8,69.6
+B00I9TNNE4,Universal PC/Stereo Gaming Headset - Yapster TM-YB100A – Black,Computers,13,3.38,38.5,46.2,61.5,76.9
+B00IAVDQCK,Xbox One Stereo Headset,Video Games,13,2.85,38.5,46.2,46.2,84.6
+B01GH9MRPI,ASTRO Gaming A50 Wireless Dolby Gaming Headset for PlayStation 4 & PC - Black/Blue (2017 Model),Video Games,13,3.15,38.5,38.5,38.5,76.9
+B01GY35HKE,Mass Effect Andromeda Deluxe - Xbox One,Video Games,21,3.14,38.1,38.1,47.6,76.2
+B0883P3VSH,"Turtle Beach Recon 50 Xbox Gaming Headset for Xbox Series X/ S, Xbox One, PS5, PS4, PlayStation, Nintendo Switch, Mobile & PC with 3.5mm - Removable Mic, 40mm Speakers - Black",Video Games,45,2.98,37.8,48.9,44.4,84.4
+B0BX8VPN1L,"Corsair Void RGB Elite USB Premium Gaming Headset with 7.1 Surround Sound, Carbon",Computers,24,3.29,37.5,45.8,54.2,75.0
+B072M6WZSY,Turtle Beach Stealth 700 Premium Wireless Surround Sound Gaming Headset for Xbox One,Video Games,11,3.18,36.4,54.5,54.5,81.8
+B07GM5MP6M,"Veanic Replacement Joystick Analog Thumb Stick Repair Kit for Nintendo Switch/Switch OLED Model/Switch Lite Joy-Con Controller - Include Y1.5, Cross Screwdriver, Pry Tools + 2 Thumbstick Caps",Video Games,11,3.45,36.4,54.5,54.5,81.8
+B00W9DHUBS,Star Wars Battlefront Outer Rim - Xbox One Digital Code,Video Games,47,2.66,36.2,46.8,23.4,76.6
+B00BFOEY4I,Logitech 981-000541 G230 Stereo Gaming Headset with Mic,Computers,30,3.6,33.3,23.3,63.3,46.7
+B0076HD2W8,Zettaguard Wireless PC USB Gaming Receiver for Xbox 360 Compact Disc,Video Games,18,3.06,33.3,50.0,55.6,77.8
+B07DK1H3H5,Cyberpunk 2077 - PC [Game Download Code in Box],Video Games,26,2.81,30.8,57.7,38.5,92.3
+B0BN5PFY24,"PDP Gaming LVL40 Stereo Headset with Mic for Nintendo Switch - PC, iPad, Mac, Laptop Compatible - Noise Cancelling Microphone, Lightweight, Soft Comfort On Ear Headphones, 3.5mm jack - Black",Video Games,13,2.54,30.8,61.5,38.5,84.6
+B003YMMMFM,Call of Duty: Black Ops,Video Games,10,2.3,30.0,70.0,20.0,70.0
+B09GYN7T42,"Corsair M65 RGB Ultra Wireless, Tunable FPS Wireless Gaming Mouse, Black",Computers,10,2.3,30.0,70.0,30.0,100.0
+B001EYUSJ4,Final Fantasy XIII - Playstation 3,Video Games,11,3.36,27.3,27.3,54.5,45.5
+B0BFFJTZNN,SteelSeries Arctis 9X Wireless Gaming Headset – Integrated Xbox Wireless + Bluetooth – 20+ Hour Battery Life – for Xbox One and Series X,Video Games,19,2.47,26.3,73.7,42.1,84.2
+B002L8W5V6,OEM Nintendo Gamecube Compatible Controller Pack 2 Black,Video Games,12,2.25,25.0,66.7,25.0,91.7
+B071K63M65,Pokemon Go-Tcha Pokemon Go Plus Accessory LED Touch Screen Wristband,Video Games,12,2.75,25.0,66.7,41.7,75.0
+B0BQMX92RN,"PDP AIRLITE Pro Wireless Headset with Mic for Xbox Series X|S, Xbox One, Windows 10/11 - White",Video Games,12,2.92,25.0,33.3,33.3,83.3
+B08DF248LD,Xbox Core Wireless Controller – Carbon Black,Video Games,13,2.15,23.1,69.2,23.1,100.0
+B003Z0BRDQ,Sid Meier's Civilization V [Download],Video Games,10,3.1,20.0,50.0,40.0,70.0
+B00308JV6I,Medal of Honor - PC,Video Games,11,3.0,18.2,45.5,36.4,72.7
+B079MRDY5V,Street Fighter V - PlayStation 4 Standard Edition,Video Games,11,3.0,18.2,45.5,54.5,54.5
+B07SNN8GV5,Call of Duty: Modern Warfare Battle Pass Edition - [Xbox One Digital Code],Video Games,11,2.0,18.2,81.8,18.2,72.7
+B0B5VZ3358,"Logitech G604 LIGHTSPEED Gaming Mouse with 15 programmable controls, up to 240 hour battery life, dual wireless connectivity modes, hyper-fast scroll wheel - Black",Computers,17,2.82,17.6,64.7,41.2,64.7
+B007W5PG5U,SimCity: Limited Edition,Video Games,28,1.57,7.1,78.6,10.7,89.3
+B007VTVRFA,SimCity - Standard Edition [Download],Video Games,22,1.55,0.0,77.3,9.1,68.2
+B001FRTK4O,Spore - PC/Mac,Video Games,20,1.65,0.0,80.0,10.0,85.0
