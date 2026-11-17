@@ -7,9 +7,11 @@ import eda
 import analysis
 import compare
 import embeddings
+import error_analysis
 import models
 import predict
 import preprocessing
+import product_analysis
 import queries
 
 MENU = {
@@ -24,6 +26,8 @@ MENU = {
     "9": "Обучить MiniLM (sentence-transformers) + LR",
     "10": "Сводная таблица сравнения моделей",
     "11": "Предсказать тональность введённого текста",
+    "12": "Матрица ошибок и разбор ошибок лучшей модели",
+    "13": "Предсказания в SQLite и тональность по товарам",
     "0": "Выход",
 }
 
@@ -203,6 +207,31 @@ def action_predict():
         print(f"  -> {label}  {scores}")
 
 
+def action_errors():
+    """Пункт 12: confusion matrix и разбор ошибок лучшей модели."""
+    try:
+        error_analysis.run_error_analysis()
+    except FileNotFoundError as e:
+        print(f"Ошибка: {e}")
+
+
+def action_products():
+    """Пункт 13: предсказания в SQLite и тональность по товарам."""
+    while True:
+        raw = input("Минимум отзывов на товар (Enter = 10): ").strip()
+        try:
+            min_reviews = int(raw) if raw else 10
+            if min_reviews < 1:
+                raise ValueError
+            break
+        except ValueError:
+            print("Введите целое число не меньше 1.")
+    try:
+        product_analysis.run_product_analysis(min_reviews=min_reviews)
+    except FileNotFoundError as e:
+        print(f"Ошибка: {e}")
+
+
 ACTIONS = {
     "1": action_load_data,
     "2": action_eda,
@@ -215,6 +244,8 @@ ACTIONS = {
     "9": action_embeddings,
     "10": action_compare,
     "11": action_predict,
+    "12": action_errors,
+    "13": action_products,
 }
 
 
