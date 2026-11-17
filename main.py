@@ -5,6 +5,10 @@ import data_loader
 import database
 import eda
 import analysis
+import compare
+import embeddings
+import models
+import predict
 import preprocessing
 import queries
 
@@ -16,6 +20,10 @@ MENU = {
     "5": "Сравнить stemming и lemmatization",
     "6": "Частотный анализ и n-граммы",
     "7": "SQL-запросы",
+    "8": "Обучить baseline и BoW/TF-IDF модели",
+    "9": "Обучить MiniLM (sentence-transformers) + LR",
+    "10": "Сводная таблица сравнения моделей",
+    "11": "Предсказать тональность введённого текста",
     "0": "Выход",
 }
 
@@ -146,6 +154,55 @@ def action_sql():
             continue
         queries.run_one(names[index - 1], all_queries)
 
+def action_text_models():
+    """Пункт 8: baseline (majority, VADER) и BoW/TF-IDF + LR."""
+    if not confirm("Обучение 5 моделей займёт около 10-20 минут. Продолжить?"):
+        print("Отменено.")
+        return
+    try:
+        models.run_baselines()
+        models.run_text_models()
+    except FileNotFoundError as e:
+        print(f"Ошибка: {e}\nСначала выполните пункты 1 и 3.")
+
+
+def action_embeddings():
+    """Пункт 9: эмбеддинги MiniLM + логистическая регрессия."""
+    if not confirm("Кодирование текстов займёт несколько минут (на CPU дольше). Продолжить?"):
+        print("Отменено.")
+        return
+    try:
+        embeddings.run_embeddings()
+    except FileNotFoundError as e:
+        print(f"Ошибка: {e}\nСначала выполните пункты 1 и 3.")
+    except ImportError as e:
+        print(e)
+
+
+def action_compare():
+    """Пункт 10: сводная таблица моделей."""
+    try:
+        compare.run_comparison_table()
+    except FileNotFoundError as e:
+        print(e)
+
+
+def action_predict():
+    """Пункт 11: ввод текста -> предсказание."""
+    try:
+        loaded = predict.load_text_model()
+    except FileNotFoundError as e:
+        print(e)
+        return
+    print(f"Модель: {loaded[0]}. Пустая строка - выход в меню.")
+    while True:
+        text = input("Отзыв (по-английски): ").strip()
+        if not text:
+            return
+        label, scores = predict.predict_text(text, loaded)
+        print(f"  -> {label}  {scores}")
+
+
 ACTIONS = {
     "1": action_load_data,
     "2": action_eda,
@@ -154,6 +211,10 @@ ACTIONS = {
     "5": action_preprocessing,
     "6": action_analysis,
     "7": action_sql,
+    "8": action_text_models,
+    "9": action_embeddings,
+    "10": action_compare,
+    "11": action_predict,
 }
 
 

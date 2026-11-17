@@ -2,3 +2,7 @@ pandas
 pyarrow
 matplotlib
 nltk
+scikit-learn
+psutil
+joblib
+sentence-transformers
